@@ -1,0 +1,21 @@
+{
+  "name": "trademark-law-expert-mx",
+  "owner": {
+    "name": "Joel A. Gómez Treviño",
+    "email": "joelgomez@abogado.digital",
+    "url": "https://lnk.bio/AbogadoDigital"
+  },
+  "description": "Marketplace de un solo plugin: Trademark Law Expert - MX, herramientas de propiedad industrial mexicana sobre marcas (LFPPI y jurisprudencia de Tribunales Colegiados, SCJN y TFJA).",
+  "plugins": [
+    {
+      "name": "trademark-law-expert-mx",
+      "source": "./",
+      "description": "Herramientas de propiedad industrial mexicana sobre marcas: consulta del texto vigente de la LFPPI (Título Cuarto y Título Séptimo), análisis de riesgo de confusión, búsqueda y cita de tesis/jurisprudencia, apoyo en la redacción de escritos ante IMPI/TFJA, y generación de material docente.",
+      "version": "0.3.2",
+      "author": {
+        "name": "Joel A. Gómez Treviño"
+      },
+      "license": "CC-BY-NC-SA-4.0"
+    }
+  ]
+}

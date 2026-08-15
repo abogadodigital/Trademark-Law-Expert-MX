@@ -1,0 +1,1992 @@
+{
+ "metadata": {
+  "titulo": "Ley Federal de Protección a la Propiedad Industrial (LFPPI) — Título Cuarto: De las Marcas, Avisos y Nombres Comerciales",
+  "ambito": "Texto normativo vigente (no es jurisprudencia ni criterio interpretativo)",
+  "fuente": "Diario Oficial de la Federación",
+  "publicacion_original": "Nueva Ley publicada en el Diario Oficial de la Federación el 1 de julio de 2020",
+  "ultima_reforma": "DOF 03-04-2026",
+  "nota_vigencia": "Corpus generado a partir de un documento de trabajo del usuario (texto vigente, última reforma DOF 03-04-2026). Ante cualquier duda sobre reformas posteriores, verificar el texto oficial vigente en el portal del DOF (https://www.diputados.gob.mx/LeyesBiblio/ o https://www.dof.gob.mx) antes de usarlo como fundamento en un escrito.",
+  "titulo_legal_numero": "TÍTULO CUARTO",
+  "titulo_legal_nombre": "De las Marcas, Avisos y Nombres Comerciales",
+  "capitulos": [
+   {
+    "codigo": "I",
+    "titulo": "De las Marcas",
+    "articulo_inicial": "170"
+   },
+   {
+    "codigo": "II",
+    "titulo": "De las Marcas Colectivas y de Certificación",
+    "articulo_inicial": "179"
+   },
+   {
+    "codigo": "III",
+    "titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+    "articulo_inicial": "190"
+   },
+   {
+    "codigo": "IV",
+    "titulo": "De los Avisos Comerciales",
+    "articulo_inicial": "200"
+   },
+   {
+    "codigo": "V",
+    "titulo": "De los Nombres Comerciales",
+    "articulo_inicial": "206"
+   },
+   {
+    "codigo": "VI",
+    "titulo": "Del Registro de Marcas",
+    "articulo_inicial": "214"
+   },
+   {
+    "codigo": "VII",
+    "titulo": "De las Licencias y Transmisión de Derechos",
+    "articulo_inicial": "239"
+   },
+   {
+    "codigo": "VIII",
+    "titulo": "De la Nulidad, Caducidad y Cancelación de Registros",
+    "articulo_inicial": "258"
+   }
+  ],
+  "total_articulos": 96,
+  "rango_articulos": "170 a 263",
+  "relacion_con_corpus_jurisprudencial": "Este corpus contiene el texto legal (fuente primaria). El corpus data/corpus_marcas_confusion.json contiene jurisprudencia y tesis que interpretan estos artículos (particularmente el art. 173, fracción XVIII, sobre semejanza en grado de confusión). Para fundamentar un análisis, citar primero el artículo aplicable de este corpus y después, si aplica, el criterio interpretativo del otro corpus."
+ },
+ "articulos": [
+  {
+   "numero": "170",
+   "capitulo_codigo": "I",
+   "capitulo_titulo": "De las Marcas",
+   "texto_intro": "Cualquier persona, física o moral, podrá hacer uso de marcas en la industria, en el comercio o en los servicios que presten. Sin embargo, el derecho a su uso exclusivo se obtiene mediante su registro en el Instituto.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 170.- Cualquier persona, física o moral, podrá hacer uso de marcas en la industria, en el comercio o en los servicios que presten. Sin embargo, el derecho a su uso exclusivo se obtiene mediante su registro en el Instituto."
+  },
+  {
+   "numero": "171",
+   "capitulo_codigo": "I",
+   "capitulo_titulo": "De las Marcas",
+   "texto_intro": "Se entiende por marca todo signo perceptible por los sentidos y susceptible de representarse de manera que permita determinar el objeto claro y preciso de la protección, que distinga productos o servicios de otros de su misma especie o clase en el mercado.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 171.- Se entiende por marca todo signo perceptible por los sentidos y susceptible de representarse de manera que permita determinar el objeto claro y preciso de la protección, que distinga productos o servicios de otros de su misma especie o clase en el mercado."
+  },
+  {
+   "numero": "172",
+   "capitulo_codigo": "I",
+   "capitulo_titulo": "De las Marcas",
+   "texto_intro": "Pueden constituir una marca los siguientes signos:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Las denominaciones, letras, números, elementos figurativos y combinaciones de colores, así como los hologramas;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Las formas tridimensionales;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Los nombres comerciales y denominaciones o razones sociales, siempre que no queden comprendidos en el artículo siguiente;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "El nombre propio de una persona física, siempre que no se confunda con una marca registrada o un nombre comercial publicado;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "V",
+     "texto": "Los sonidos;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VI",
+     "texto": "Los olores;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VII",
+     "texto": "La pluralidad de elementos operativos o de imagen, incluidos, entre otros, el tamaño, diseño, color, disposición de la forma, etiqueta, empaque, decoración o cualquier otro que al combinarse, distingan productos o servicios en el mercado;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VIII",
+     "texto": "De posición;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IX",
+     "texto": "De movimiento;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "X",
+     "texto": "Multimedia, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XI",
+     "texto": "La combinación de los signos enunciados en las fracciones anteriores.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [
+    "Fracción reformada y recorrida DOF 03-04-2026"
+   ],
+   "texto_completo": "Artículo 172.- Pueden constituir una marca los siguientes signos:\nI.- \tLas denominaciones, letras, números, elementos figurativos y combinaciones de colores, así como los hologramas;\nII.- \tLas formas tridimensionales;\nIII.- \tLos nombres comerciales y denominaciones o razones sociales, siempre que no queden comprendidos en el artículo siguiente;\nIV.- \tEl nombre propio de una persona física, siempre que no se confunda con una marca registrada o un nombre comercial publicado;\nV.- \tLos sonidos;\nVI.- \tLos olores;\nVII.- \tLa pluralidad de elementos operativos o de imagen, incluidos, entre otros, el tamaño, diseño, color, disposición de la forma, etiqueta, empaque, decoración o cualquier otro que al combinarse, distingan productos o servicios en el mercado;\nVIII.- \tDe posición;\nIX.- \tDe movimiento;\nX.- \tMultimedia, y\nXI.- \tLa combinación de los signos enunciados en las fracciones anteriores.\nFracción reformada y recorrida DOF 03-04-2026"
+  },
+  {
+   "numero": "173",
+   "capitulo_codigo": "I",
+   "capitulo_titulo": "De las Marcas",
+   "texto_intro": "No serán registrables como marca:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Los nombres técnicos o de uso común de los productos o servicios que pretenden distinguirse con la marca, así como aquellas palabras, denominaciones, frases, o elementos figurativos que, en el lenguaje corriente o en las prácticas comerciales, se hayan convertido en elementos usuales o genéricos de los mismos;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "I Bis",
+     "texto": "Los nombres técnicos o de uso común, así como aquellas palabras, denominaciones, frases, sonidos o elementos figurativos de los productos o servicios que pretenden distinguirse con la marca y que carezcan de distintividad;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Las formas tridimensionales o diseños industriales que sean del dominio público o que se hayan hecho de uso común o aquéllas que carezcan de distintividad; así como la forma usual y corriente de los productos, o la impuesta por su naturaleza o funcionalidad;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Los hologramas que sean del dominio público y aquéllos que carezcan de distintividad;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "Los signos que considerando el conjunto de sus características sean descriptivos de los productos o servicios que pretenden distinguir. Quedan incluidos en este supuesto, los signos que en el comercio sirvan para designar la especie, calidad, cantidad, composición, destino, valor, lugar de origen o la época de producción de los productos o servicios;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "V",
+     "texto": "Las letras, los dígitos o su nombre, así como los colores aislados, a menos que estén combinados o acompañados de otros signos que les den un carácter distintivo;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VI",
+     "texto": "La traducción, la transliteración, la variación ortográfica caprichosa o la construcción artificial de palabras no registrables;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VII",
+     "texto": "Los signos que sin autorización reproduzcan o imiten escudos, banderas o emblemas de cualquier país, estado, municipio o divisiones políticas equivalentes; las denominaciones, siglas, símbolos, emblemas, nombres de programas o proyectos o cualquier otro signo de instrumentos internacionales, organizaciones, gubernamentales, no gubernamentales, ya sean nacionales, extranjeras o internacionales, o cualquier otra organización reconocida oficialmente; así como la designación verbal de los mismos;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VIII",
+     "texto": "Los signos que reproduzcan o imiten signos o sellos oficiales de control y garantía adoptados por un Estado, sin autorización de la autoridad competente, o monedas, billetes de banco, monedas conmemorativas o cualquier medio oficial de pago nacional o extranjero;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IX",
+     "texto": "Los signos que reproduzcan o imiten los nombres, signos o la representación gráfica de condecoraciones, medallas u otros premios obtenidos en exposiciones, ferias, congresos, eventos culturales o deportivos, reconocidos oficialmente;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "X",
+     "texto": "Los signos idénticos o semejantes en grado de confusión a las zonas geográficas, propias o comunes; los mapas, las denominaciones de poblaciones, o los gentilicios, nombres o adjetivos, cuando éstos indiquen la procedencia de los productos o servicios y puedan originar confusión o error en cuanto a su procedencia. Quedan incluidos en este supuesto aquellos signos que se acompañen de expresiones tales como “género”, “tipo”, “manera”, “imitación”, “producido en”, “con fabricación en” u otros similares que creen confusión en la persona consumidora o impliquen competencia desleal;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XI",
+     "texto": "Los signos idénticos o semejantes en grado de confusión a las denominaciones de origen, indicaciones geográficas, o a las denominaciones o signos de lugares que se caractericen por la fabricación, producción o comercialización de determinados productos o servicios, cuando los productos o servicios solicitados sean idénticos o similares a éstos o a los protegidos por las denominaciones de origen o indicaciones geográficas. Quedan incluidos en este supuesto aquellos signos que se acompañen de expresiones tales como: “género”, “tipo”, “manera”, “imitación”, “producido en”, “con fabricación en” u otras similares que creen confusión en la persona consumidora o impliquen competencia desleal;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XII",
+     "texto": "Los nombres de lugares de propiedad particular, cuando sean especiales e inconfundibles y que se caractericen por la producción de determinados productos o el ofrecimiento de determinados servicios, sin el consentimiento del propietario;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XIII",
+     "texto": "Los nombres, apellidos, apelativos o seudónimos de personas que hayan adquirido tal prestigio, reconocimiento o fama que al usarse puedan crear un riesgo de asociación, inducir al error, confusión o engaño al público consumidor, salvo que se trate de dicha persona o exista consentimiento expreso de la misma o de quien tenga el derecho correspondiente. Tampoco será registrable la imagen, la voz identificable, el retrato o la firma de una persona sin su consentimiento expreso, o de quien tenga el derecho correspondiente;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XIV",
+     "texto": "Los nombres o denominaciones idénticos o semejantes en grado de confusión al título de una obra literaria o artística, así como la reproducción o imitación de elementos contenidos en ella, cuando dicha obra tenga tal relevancia o reconocimiento que el signo solicitado pueda ser susceptible de engañar al público o inducir a error por hacer creer infundadamente que existe alguna relación o asociación entre éste y la obra, salvo que la persona titular del derecho correspondiente lo autorice expresamente. No será registrable como marca la reproducción, total o parcial, de una obra literaria o artística, sin la autorización correspondiente de la persona titular del derecho de autor. Tampoco serán registrables como marca los títulos de publicaciones y difusiones periódicas, los personajes ficticios o simbólicos, los personajes humanos de caracterización, los nombres artísticos y las denominaciones de grupos artísticos, excepto cuando el registro sea solicitado por la persona titular del derecho correspondiente o por una tercera persona con el consentimiento de ésta;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XV",
+     "texto": "Los signos, frases, elementos de imagen, oraciones, avisos o nombres comerciales, susceptibles de engañar al público o inducir a error. Se entenderán como tales, aquéllos que constituyan indicaciones falsas o engañosas sobre la naturaleza, composición, cualidades o el origen empresarial o gubernamental, de los productos o servicios que pretenden distinguir;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XVI",
+     "texto": "Los signos iguales o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado notoriamente conocida en México, en términos del Capítulo III de este Título, para ser aplicadas a cualquier producto o servicio, cuando la marca cuyo registro se solicita pudiese:",
+     "incisos": [
+      {
+       "letra": "a",
+       "texto": "Crear confusión o un riesgo de asociación con la persona titular de la marca notoriamente conocida;"
+      },
+      {
+       "letra": "b",
+       "texto": "Constituir un aprovechamiento no autorizado por la persona titular de la marca notoriamente conocida;"
+      },
+      {
+       "letra": "c",
+       "texto": "Causar el desprestigio de la marca notoriamente conocida, o"
+      },
+      {
+       "letra": "d",
+       "texto": "Diluir el carácter distintivo de la marca notoriamente conocida."
+      }
+     ],
+     "notas": [
+      "Este impedimento no será aplicable cuando la persona solicitante del registro sea titular de la marca notoriamente conocida;"
+     ]
+    },
+    {
+     "numero": "XVII",
+     "texto": "Los signos idénticos o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado famosa en términos del Capítulo III de este Título, para ser aplicadas a cualquier producto o servicio. Este impedimento no será aplicable cuando la persona solicitante del registro sea titular de la marca famosa;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XVIII",
+     "texto": "Los signos idénticos o semejantes en grado de confusión, a una marca o aviso comercial en trámite de registro presentada con anterioridad, o a una registrada y vigente, aplicada a los mismos o similares productos o servicios. Quedan incluidos en este supuesto aquéllos que sean idénticos a una marca registrada o en trámite de la misma persona titular, que distinga productos o servicios idénticos;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XIX",
+     "texto": "Los signos que sean idénticos o semejantes en grado de confusión, a un nombre comercial aplicado a una empresa o a un establecimiento industrial, comercial o de servicios, cuyo giro preponderante sea la elaboración o venta de los productos o la prestación de los servicios que se pretendan amparar con la marca, y siempre que el nombre comercial haya sido usado con anterioridad a la fecha de presentación de la solicitud de registro de la marca o la de uso declarado de la misma. Lo anterior no será aplicable, cuando la solicitud de marca la presente la persona titular del nombre comercial, si no existe otro nombre comercial idéntico que haya sido publicado;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XX",
+     "texto": "El nombre propio, apellido, apodo o apelativo de una persona física que sea idéntico o semejante en grado de confusión a una marca en trámite de registro presentada con anterioridad o a una registrada y vigente, o un nombre comercial publicado, aplicado a los mismos o similares productos o servicios;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XXI",
+     "texto": "Los signos que reproduzcan o imiten denominaciones o elementos que hagan referencia a variedades vegetales protegidas, así como las razas de animales, que puedan causar confusión en el público consumidor respecto de los productos o servicios a distinguir;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XXII",
+     "texto": "Los signos solicitados de mala fe. Se entenderá por mala fe, entre otros casos, el haber solicitado el registro de un signo con el propósito de obtener un beneficio o ventaja indebida en perjuicio de su legítimo titular, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "XXIII",
+     "texto": "Los signos idénticos o semejantes en grado de confusión a los elementos que formen parte o se vinculen de manera clara al desarrollo del patrimonio cultural, conocimientos y expresiones culturales tradicionales, así como a las manifestaciones asociadas a los mismos y la propiedad intelectual colectiva de los pueblos y comunidades indígenas y afromexicanas, salvo que la solicitud sea presentada por personas integrantes de dichas comunidades, en términos de lo que establezca el Reglamento de esta Ley y previa autorización de la asamblea general comunitaria respectiva.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [
+    "Lo dispuesto por las fracciones I, II, III, IV, V y VI del presente artículo no resultará aplicable, cuando derivado del uso que se hubiese hecho en el comercio en los productos o servicios para los cuales se solicita la marca, ésta haya adquirido un carácter distintivo en territorio nacional, de conformidad con lo dispuesto por el Reglamento de esta Ley. No se reconocerá que una forma tridimensional ha adquirido distintividad, cuando se solicite proteger únicamente la forma inherente a su naturaleza o funcionalidad.",
+    "Lo dispuesto por las fracciones XVIII, XIX y XX del presente artículo no resultará aplicable respecto a las marcas semejantes en grado de confusión o idénticas para productos o servicios similares, cuando se exhiba el consentimiento expreso y por escrito, en términos del Reglamento de esta Ley.",
+    "Para efectos de las fracciones XVIII y XX del presente artículo, quedan incluidos los registros o publicaciones a los que se refiere el artículo 237 de esta Ley."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 173.- No serán registrables como marca:\nI.- \tLos nombres técnicos o de uso común de los productos o servicios que pretenden distinguirse con la marca, así como aquellas palabras, denominaciones, frases, o elementos figurativos que, en el lenguaje corriente o en las prácticas comerciales, se hayan convertido en elementos usuales o genéricos de los mismos;\nI Bis.- \tLos nombres técnicos o de uso común, así como aquellas palabras, denominaciones, frases, sonidos o elementos figurativos de los productos o servicios que pretenden distinguirse con la marca y que carezcan de distintividad;\nII.- \tLas formas tridimensionales o diseños industriales que sean del dominio público o que se hayan hecho de uso común o aquéllas que carezcan de distintividad; así como la forma usual y corriente de los productos, o la impuesta por su naturaleza o funcionalidad;\nIII.- \tLos hologramas que sean del dominio público y aquéllos que carezcan de distintividad;\nIV.- \tLos signos que considerando el conjunto de sus características sean descriptivos de los productos o servicios que pretenden distinguir.\nQuedan incluidos en este supuesto, los signos que en el comercio sirvan para designar la especie, calidad, cantidad, composición, destino, valor, lugar de origen o la época de producción de los productos o servicios;\nV.- \tLas letras, los dígitos o su nombre, así como los colores aislados, a menos que estén combinados o acompañados de otros signos que les den un carácter distintivo;\nVI.- \tLa traducción, la transliteración, la variación ortográfica caprichosa o la construcción artificial de palabras no registrables;\nVII.- \tLos signos que sin autorización reproduzcan o imiten escudos, banderas o emblemas de cualquier país, estado, municipio o divisiones políticas equivalentes; las denominaciones, siglas, símbolos, emblemas, nombres de programas o proyectos o cualquier otro signo de instrumentos internacionales, organizaciones, gubernamentales, no gubernamentales, ya sean nacionales, extranjeras o internacionales, o cualquier otra organización reconocida oficialmente; así como la designación verbal de los mismos;\nVIII.- \tLos signos que reproduzcan o imiten signos o sellos oficiales de control y garantía adoptados por un Estado, sin autorización de la autoridad competente, o monedas, billetes de banco, monedas conmemorativas o cualquier medio oficial de pago nacional o extranjero;\nIX.- \tLos signos que reproduzcan o imiten los nombres, signos o la representación gráfica de condecoraciones, medallas u otros premios obtenidos en exposiciones, ferias, congresos, eventos culturales o deportivos, reconocidos oficialmente;\nX.- \tLos signos idénticos o semejantes en grado de confusión a las zonas geográficas, propias o comunes; los mapas, las denominaciones de poblaciones, o los gentilicios, nombres o adjetivos, cuando éstos indiquen la procedencia de los productos o servicios y puedan originar confusión o error en cuanto a su procedencia.\nQuedan incluidos en este supuesto aquellos signos que se acompañen de expresiones tales como “género”, “tipo”, “manera”, “imitación”, “producido en”, “con fabricación en” u otros similares que creen confusión en la persona consumidora o impliquen competencia desleal;\nXI.- \tLos signos idénticos o semejantes en grado de confusión a las denominaciones de origen, indicaciones geográficas, o a las denominaciones o signos de lugares que se caractericen por la fabricación, producción o comercialización de determinados productos o servicios, cuando los productos o servicios solicitados sean idénticos o similares a éstos o a los protegidos por las denominaciones de origen o indicaciones geográficas.\nQuedan incluidos en este supuesto aquellos signos que se acompañen de expresiones tales como: “género”, “tipo”, “manera”, “imitación”, “producido en”, “con fabricación en” u otras similares que creen confusión en la persona consumidora o impliquen competencia desleal;\nXII.- \tLos nombres de lugares de propiedad particular, cuando sean especiales e inconfundibles y que se caractericen por la producción de determinados productos o el ofrecimiento de determinados servicios, sin el consentimiento del propietario;\nXIII.- \tLos nombres, apellidos, apelativos o seudónimos de personas que hayan adquirido tal prestigio, reconocimiento o fama que al usarse puedan crear un riesgo de asociación, inducir al error, confusión o engaño al público consumidor, salvo que se trate de dicha persona o exista consentimiento expreso de la misma o de quien tenga el derecho correspondiente.\nTampoco será registrable la imagen, la voz identificable, el retrato o la firma de una persona sin su consentimiento expreso, o de quien tenga el derecho correspondiente;\nXIV.- \tLos nombres o denominaciones idénticos o semejantes en grado de confusión al título de una obra literaria o artística, así como la reproducción o imitación de elementos contenidos en ella, cuando dicha obra tenga tal relevancia o reconocimiento que el signo solicitado pueda ser susceptible de engañar al público o inducir a error por hacer creer infundadamente que existe alguna relación o asociación entre éste y la obra, salvo que la persona titular del derecho correspondiente lo autorice expresamente.\nNo será registrable como marca la reproducción, total o parcial, de una obra literaria o artística, sin la autorización correspondiente de la persona titular del derecho de autor.\nTampoco serán registrables como marca los títulos de publicaciones y difusiones periódicas, los personajes ficticios o simbólicos, los personajes humanos de caracterización, los nombres artísticos y las denominaciones de grupos artísticos, excepto cuando el registro sea solicitado por la persona titular del derecho correspondiente o por una tercera persona con el consentimiento de ésta;\nXV.- \tLos signos, frases, elementos de imagen, oraciones, avisos o nombres comerciales, susceptibles de engañar al público o inducir a error.\nSe entenderán como tales, aquéllos que constituyan indicaciones falsas o engañosas sobre la naturaleza, composición, cualidades o el origen empresarial o gubernamental, de los productos o servicios que pretenden distinguir;\nXVI.- \tLos signos iguales o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado notoriamente conocida en México, en términos del Capítulo III de este Título, para ser aplicadas a cualquier producto o servicio, cuando la marca cuyo registro se solicita pudiese:\na) \tCrear confusión o un riesgo de asociación con la persona titular de la marca notoriamente conocida;\nb) \tConstituir un aprovechamiento no autorizado por la persona titular de la marca notoriamente conocida;\nc) \tCausar el desprestigio de la marca notoriamente conocida, o\nd) \tDiluir el carácter distintivo de la marca notoriamente conocida.\nEste impedimento no será aplicable cuando la persona solicitante del registro sea titular de la marca notoriamente conocida;\nXVII.- \tLos signos idénticos o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado famosa en términos del Capítulo III de este Título, para ser aplicadas a cualquier producto o servicio.\nEste impedimento no será aplicable cuando la persona solicitante del registro sea titular de la marca famosa;\nXVIII.- \tLos signos idénticos o semejantes en grado de confusión, a una marca o aviso comercial en trámite de registro presentada con anterioridad, o a una registrada y vigente, aplicada a los mismos o similares productos o servicios.\nQuedan incluidos en este supuesto aquéllos que sean idénticos a una marca registrada o en trámite de la misma persona titular, que distinga productos o servicios idénticos;\nXIX.- \tLos signos que sean idénticos o semejantes en grado de confusión, a un nombre comercial aplicado a una empresa o a un establecimiento industrial, comercial o de servicios, cuyo giro preponderante sea la elaboración o venta de los productos o la prestación de los servicios que se pretendan amparar con la marca, y siempre que el nombre comercial haya sido usado con anterioridad a la fecha de presentación de la solicitud de registro de la marca o la de uso declarado de la misma. Lo anterior no será aplicable, cuando la solicitud de marca la presente la persona titular del nombre comercial, si no existe otro nombre comercial idéntico que haya sido publicado;\nXX.- \tEl nombre propio, apellido, apodo o apelativo de una persona física que sea idéntico o semejante en grado de confusión a una marca en trámite de registro presentada con anterioridad o a una registrada y vigente, o un nombre comercial publicado, aplicado a los mismos o similares productos o servicios;\nXXI.- \tLos signos que reproduzcan o imiten denominaciones o elementos que hagan referencia a variedades vegetales protegidas, así como las razas de animales, que puedan causar confusión en el público consumidor respecto de los productos o servicios a distinguir;\nXXII.- \tLos signos solicitados de mala fe.\nSe entenderá por mala fe, entre otros casos, el haber solicitado el registro de un signo con el propósito de obtener un beneficio o ventaja indebida en perjuicio de su legítimo titular, y\nXXIII.- \tLos signos idénticos o semejantes en grado de confusión a los elementos que formen parte o se vinculen de manera clara al desarrollo del patrimonio cultural, conocimientos y expresiones culturales tradicionales, así como a las manifestaciones asociadas a los mismos y la propiedad intelectual colectiva de los pueblos y comunidades indígenas y afromexicanas, salvo que la solicitud sea presentada por personas integrantes de dichas comunidades, en términos de lo que establezca el Reglamento de esta Ley y previa autorización de la asamblea general comunitaria respectiva.\nLo dispuesto por las fracciones I, II, III, IV, V y VI del presente artículo no resultará aplicable, cuando derivado del uso que se hubiese hecho en el comercio en los productos o servicios para los cuales se solicita la marca, ésta haya adquirido un carácter distintivo en territorio nacional, de conformidad con lo dispuesto por el Reglamento de esta Ley. No se reconocerá que una forma tridimensional ha adquirido distintividad, cuando se solicite proteger únicamente la forma inherente a su naturaleza o funcionalidad.\nLo dispuesto por las fracciones XVIII, XIX y XX del presente artículo no resultará aplicable respecto a las marcas semejantes en grado de confusión o idénticas para productos o servicios similares, cuando se exhiba el consentimiento expreso y por escrito, en términos del Reglamento de esta Ley.\nPara efectos de las fracciones XVIII y XX del presente artículo, quedan incluidos los registros o publicaciones a los que se refiere el artículo 237 de esta Ley."
+  },
+  {
+   "numero": "174",
+   "capitulo_codigo": "I",
+   "capitulo_titulo": "De las Marcas",
+   "texto_intro": "No podrá usarse ni formar parte del nombre comercial, denominación o razón social de ningún establecimiento o persona moral, una marca registrada o una semejante en grado de confusión a otra marca previamente registrada, cuando:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Se trate de establecimientos o personas morales cuya actividad sea la producción, importación o comercialización de bienes o servicios iguales o similares a los que se aplica la marca registrada, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "No exista consentimiento manifestado por escrito de la persona titular del registro de la marca o de quien tenga facultades para hacerlo. La violación a este precepto dará lugar a la aplicación de las sanciones a que se refiere esta Ley, independientemente que se pueda demandar judicialmente la supresión de la marca registrada o aquélla semejante en grado de confusión a la previamente registrada, del nombre comercial, la denominación o razón social correspondiente y el pago de daños y perjuicios. Lo dispuesto en este precepto no será aplicable cuando el nombre comercial, denominación o razón social hubiesen incluido la marca con anterioridad a la fecha de presentación o de primer uso declarado de la marca registrada.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 174.- No podrá usarse ni formar parte del nombre comercial, denominación o razón social de ningún establecimiento o persona moral, una marca registrada o una semejante en grado de confusión a otra marca previamente registrada, cuando:\nI.- \tSe trate de establecimientos o personas morales cuya actividad sea la producción, importación o comercialización de bienes o servicios iguales o similares a los que se aplica la marca registrada, y\nII.- \tNo exista consentimiento manifestado por escrito de la persona titular del registro de la marca o de quien tenga facultades para hacerlo.\nLa violación a este precepto dará lugar a la aplicación de las sanciones a que se refiere esta Ley, independientemente que se pueda demandar judicialmente la supresión de la marca registrada o aquélla semejante en grado de confusión a la previamente registrada, del nombre comercial, la denominación o razón social correspondiente y el pago de daños y perjuicios.\nLo dispuesto en este precepto no será aplicable cuando el nombre comercial, denominación o razón social hubiesen incluido la marca con anterioridad a la fecha de presentación o de primer uso declarado de la marca registrada."
+  },
+  {
+   "numero": "175",
+   "capitulo_codigo": "I",
+   "capitulo_titulo": "De las Marcas",
+   "texto_intro": "El registro de una marca no producirá efecto alguno contra:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Una tercera persona que de buena fe explotaba en territorio nacional la misma marca u otra semejante en grado de confusión, para los mismos o similares productos o servicios, siempre y cuando la tercera persona hubiese empezado a usar la marca, de manera ininterrumpida, antes de la fecha de presentación de la solicitud de registro o del primer uso declarado en ésta. La tercera persona tendrá derecho a solicitar el registro de la marca, dentro de los cinco años siguientes al día en que fue publicado el registro, en cuyo caso deberá tramitar y obtener previamente la declaración de nulidad de éste;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Cualquier persona que comercialice, distribuya, adquiera o use el producto al que se aplica la marca registrada, luego que dicho producto hubiera sido introducido lícitamente en el comercio por la persona titular de la marca registrada o por la persona a quien le haya concedido licencia. Queda comprendida en este supuesto la importación de los productos legítimos a los que se aplica la marca, que realice cualquier persona para su uso, distribución o comercialización en México, en los términos y condiciones que señale el Reglamento de esta Ley, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Una persona física o moral que aplique su nombre, denominación o razón social a los productos que elabore o distribuya, a los servicios que preste, o a sus establecimientos, o lo use como parte de su nombre comercial, siempre que lo aplique en la forma en que esté acostumbrado a usarlo y que tenga caracteres que lo distingan claramente de un homónimo ya registrado como marca o publicado como nombre comercial. La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 175.- El registro de una marca no producirá efecto alguno contra:\nI.- \tUna tercera persona que de buena fe explotaba en territorio nacional la misma marca u otra semejante en grado de confusión, para los mismos o similares productos o servicios, siempre y cuando la tercera persona hubiese empezado a usar la marca, de manera ininterrumpida, antes de la fecha de presentación de la solicitud de registro o del primer uso declarado en ésta. La tercera persona tendrá derecho a solicitar el registro de la marca, dentro de los cinco años siguientes al día en que fue publicado el registro, en cuyo caso deberá tramitar y obtener previamente la declaración de nulidad de éste;\nII.- \tCualquier persona que comercialice, distribuya, adquiera o use el producto al que se aplica la marca registrada, luego que dicho producto hubiera sido introducido lícitamente en el comercio por la persona titular de la marca registrada o por la persona a quien le haya concedido licencia.\nQueda comprendida en este supuesto la importación de los productos legítimos a los que se aplica la marca, que realice cualquier persona para su uso, distribución o comercialización en México, en los términos y condiciones que señale el Reglamento de esta Ley, y\nIII.- \tUna persona física o moral que aplique su nombre, denominación o razón social a los productos que elabore o distribuya, a los servicios que preste, o a sus establecimientos, o lo use como parte de su nombre comercial, siempre que lo aplique en la forma en que esté acostumbrado a usarlo y que tenga caracteres que lo distingan claramente de un homónimo ya registrado como marca o publicado como nombre comercial.\nLa realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley."
+  },
+  {
+   "numero": "176",
+   "capitulo_codigo": "I",
+   "capitulo_titulo": "De las Marcas",
+   "texto_intro": "Las marcas se registrarán en relación con productos o servicios específicos determinados conforme a la clasificación y reglas que establezca el Reglamento de esta Ley.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Cualquier duda respecto de la clase a que corresponda un producto o servicio, será resuelta en definitiva por el Instituto."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 176.- Las marcas se registrarán en relación con productos o servicios específicos determinados conforme a la clasificación y reglas que establezca el Reglamento de esta Ley.\nCualquier duda respecto de la clase a que corresponda un producto o servicio, será resuelta en definitiva por el Instituto."
+  },
+  {
+   "numero": "177",
+   "capitulo_codigo": "I",
+   "capitulo_titulo": "De las Marcas",
+   "texto_intro": "Una vez efectuado el registro de una marca, no podrá aumentarse el número de productos o servicios que distinga, aun cuando pertenezcan a la misma clase, pero sí podrá limitarse a determinados productos o servicios cuantas veces se solicite.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Para distinguir posteriormente un producto o servicio diverso con una marca ya registrada, será necesario obtener un nuevo registro."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 177.- Una vez efectuado el registro de una marca, no podrá aumentarse el número de productos o servicios que distinga, aun cuando pertenezcan a la misma clase, pero sí podrá limitarse a determinados productos o servicios cuantas veces se solicite.\nPara distinguir posteriormente un producto o servicio diverso con una marca ya registrada, será necesario obtener un nuevo registro."
+  },
+  {
+   "numero": "178",
+   "capitulo_codigo": "I",
+   "capitulo_titulo": "De las Marcas",
+   "texto_intro": "El registro de marca tendrá una vigencia de diez años contados a partir de la fecha de su otorgamiento y podrá renovarse por períodos de la misma duración.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Al momento de solicitar el registro de una marca, así como al momento de su renovación, la persona interesada declarará bajo protesta de decir verdad que los productos o servicios que ofertará se encuentran libre de engaño o mala fe.",
+    "En caso de que las autoridades competentes determinen que dicho producto o servicio viola las disposiciones legales vigentes que le resulten aplicables, el Instituto podrá iniciar el procedimiento de declaración administrativa de nulidad del registro respectivo."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 178.- El registro de marca tendrá una vigencia de diez años contados a partir de la fecha de su otorgamiento y podrá renovarse por períodos de la misma duración.\nAl momento de solicitar el registro de una marca, así como al momento de su renovación, la persona interesada declarará bajo protesta de decir verdad que los productos o servicios que ofertará se encuentran libre de engaño o mala fe.\nEn caso de que las autoridades competentes determinen que dicho producto o servicio viola las disposiciones legales vigentes que le resulten aplicables, el Instituto podrá iniciar el procedimiento de declaración administrativa de nulidad del registro respectivo."
+  },
+  {
+   "numero": "179",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "Podrán solicitar el registro de una marca colectiva las asociaciones o sociedades de productores, fabricantes o comerciantes de productos, o prestadores de servicios, legalmente constituidas, para distinguir, en el mercado, los productos o servicios de sus miembros siempre que éstos posean calidad o características comunes entre ellos y diversas respecto de los productos o servicios de terceros.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 179.- Podrán solicitar el registro de una marca colectiva las asociaciones o sociedades de productores, fabricantes o comerciantes de productos, o prestadores de servicios, legalmente constituidas, para distinguir, en el mercado, los productos o servicios de sus miembros siempre que éstos posean calidad o características comunes entre ellos y diversas respecto de los productos o servicios de terceros."
+  },
+  {
+   "numero": "180",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "Los miembros de la asociación o sociedad, titular de la marca colectiva, podrán usar junto a ésta el término “Marca Colectiva Registrada”.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 180.- Los miembros de la asociación o sociedad, titular de la marca colectiva, podrán usar junto a ésta el término “Marca Colectiva Registrada”."
+  },
+  {
+   "numero": "181",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "Con la solicitud de marca colectiva se deberán presentar las reglas para su uso, que contendrán lo siguiente:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "El nombre de la asociación o sociedad que será titular de la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "La representación gráfica o imagen de la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Los productos o servicios a los que se aplicará la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "Las características o cualidades comunes de los productos o servicios;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "V",
+     "texto": "Los procesos de elaboración, producción, empaque, embalaje o envasado del producto o de la prestación del servicio que se trate;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VI",
+     "texto": "La indicación de que la marca no podrá ser transmitida a terceras personas y de que su uso quedará reservado a los miembros de la asociación o sociedad;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VII",
+     "texto": "Los mecanismos de control del uso de la marca y del cumplimiento de las reglas de uso;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VIII",
+     "texto": "Las sanciones en caso de incumplimiento de las reglas de uso;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IX",
+     "texto": "La indicación sobre el ejercicio de las acciones legales de protección, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "X",
+     "texto": "Las demás que la persona solicitante estime pertinentes. En el caso de la fracción IX del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos frente a terceros.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 181.- Con la solicitud de marca colectiva se deberán presentar las reglas para su uso, que contendrán lo siguiente:\nI.- \tEl nombre de la asociación o sociedad que será titular de la marca;\nII.- \tLa representación gráfica o imagen de la marca;\nIII.- \tLos productos o servicios a los que se aplicará la marca;\nIV.- \tLas características o cualidades comunes de los productos o servicios;\nV.- \tLos procesos de elaboración, producción, empaque, embalaje o envasado del producto o de la prestación del servicio que se trate;\nVI.- \tLa indicación de que la marca no podrá ser transmitida a terceras personas y de que su uso quedará reservado a los miembros de la asociación o sociedad;\nVII.- \tLos mecanismos de control del uso de la marca y del cumplimiento de las reglas de uso;\nVIII.- \tLas sanciones en caso de incumplimiento de las reglas de uso;\nIX.- \tLa indicación sobre el ejercicio de las acciones legales de protección, y\nX.- \tLas demás que la persona solicitante estime pertinentes.\nEn el caso de la fracción IX del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos frente a terceros."
+  },
+  {
+   "numero": "182",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "La marca colectiva no será objeto de licencia, ni podrá ser transmitida a terceras personas, quedando su uso reservado a los miembros de la asociación o sociedad.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Las marcas colectivas se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 182.- La marca colectiva no será objeto de licencia, ni podrá ser transmitida a terceras personas, quedando su uso reservado a los miembros de la asociación o sociedad.\nLas marcas colectivas se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas."
+  },
+  {
+   "numero": "183",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "Se entiende por marca de certificación un signo que distingue productos o servicios cuyas cualidades u otras características son verificadas por su titular, tales como:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Los componentes de los productos y servicios;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Las condiciones bajo las cuales los productos han sido elaborados y los servicios prestados;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "La calidad, procesos u otras características de los productos y servicios; o",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "El origen geográfico de los productos y servicios, entre otros.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [
+    "La persona titular de la marca de certificación verificará el cumplimiento de una o más de las cualidades o características establecidas en las fracciones I a IV del presente artículo, conforme a lo establecido en las reglas de uso."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 183.- Se entiende por marca de certificación un signo que distingue productos o servicios cuyas cualidades u otras características son verificadas por su titular, tales como:\nI.- \tLos componentes de los productos y servicios;\nII.- \tLas condiciones bajo las cuales los productos han sido elaborados y los servicios prestados;\nIII.- \tLa calidad, procesos u otras características de los productos y servicios; o\nIV.- \tEl origen geográfico de los productos y servicios, entre otros.\nLa persona titular de la marca de certificación verificará el cumplimiento de una o más de las cualidades o características establecidas en las fracciones I a IV del presente artículo, conforme a lo establecido en las reglas de uso."
+  },
+  {
+   "numero": "184",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "La marca de certificación podrá estar conformada por el nombre de una zona geográfica o contener dicho nombre, u otra indicación conocida por hacer referencia a la citada zona, que identifique un producto o servicio como originario de la misma, cuando determinada calidad, reputación, u otra característica del producto o servicio sea imputable fundamentalmente a su origen geográfico.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 184.- La marca de certificación podrá estar conformada por el nombre de una zona geográfica o contener dicho nombre, u otra indicación conocida por hacer referencia a la citada zona, que identifique un producto o servicio como originario de la misma, cuando determinada calidad, reputación, u otra característica del producto o servicio sea imputable fundamentalmente a su origen geográfico."
+  },
+  {
+   "numero": "185",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "Podrá solicitar el registro cualquier persona moral legalmente constituida que acredite la actividad de certificación de conformidad con su objeto social, siempre y cuando no desarrolle una actividad empresarial que implique el suministro de productos o la prestación del servicio de la misma naturaleza o tipo que aquélla certifica.",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Las cámaras o asociaciones de fabricantes o productores vinculados con el producto que se pretenda amparar con la indicación;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Las dependencias o entidades del Gobierno Federal, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Los gobiernos en cuya zona geográfica se extraiga, produzca o elabore el producto que se pretenda amparar.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [
+    "Cuando la marca de certificación esté conformada por el nombre de una zona geográfica o contenga dicho nombre u otra indicación conocida por hacer referencia a la citada zona que identifique un producto o servicio, solo podrán solicitar el registro:"
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 185.- Podrá solicitar el registro cualquier persona moral legalmente constituida que acredite la actividad de certificación de conformidad con su objeto social, siempre y cuando no desarrolle una actividad empresarial que implique el suministro de productos o la prestación del servicio de la misma naturaleza o tipo que aquélla certifica.\nCuando la marca de certificación esté conformada por el nombre de una zona geográfica o contenga dicho nombre u otra indicación conocida por hacer referencia a la citada zona que identifique un producto o servicio, solo podrán solicitar el registro:\nI.- Las cámaras o asociaciones de fabricantes o productores vinculados con el producto que se pretenda amparar con la indicación;\nII.- Las dependencias o entidades del Gobierno Federal, y\nIII.- Los gobiernos en cuya zona geográfica se extraiga, produzca o elabore el producto que se pretenda amparar."
+  },
+  {
+   "numero": "186",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "La solicitud de registro de una marca de certificación deberá acompañarse de sus reglas de uso, en las que se indique:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Los productos o servicios específicos a certificar con la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "La representación gráfica e imagen de la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Las especificaciones técnicas que definan las cualidades o características particulares del producto o servicio tales como el origen de las materias primas, las condiciones de producción, su procedimiento de transformación, sus características físicas, químicas, tóxicas, bacteriológicas o de utilización, su composición o etiquetado, entre otros;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "El procedimiento de comprobación de las cualidades o características específicas señaladas en la fracción anterior;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "V",
+     "texto": "Las modalidades y periodicidad de los controles de calidad;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VI",
+     "texto": "El régimen de sanciones para el caso de incumplimiento de las reglas de uso;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VII",
+     "texto": "La indicación de que la marca no podrá ser objeto de licencia;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VIII",
+     "texto": "La indicación sobre el ejercicio de las acciones legales de protección;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IX",
+     "texto": "En su caso, las normas oficiales mexicanas, estándares o cualquier otra norma o lineamiento internacional que apliquen, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "X",
+     "texto": "Las demás que la persona solicitante estime pertinentes. En el caso de la fracción VIII del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos frente a terceros.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 186.- La solicitud de registro de una marca de certificación deberá acompañarse de sus reglas de uso, en las que se indique:\nI.- \tLos productos o servicios específicos a certificar con la marca;\nII.- \tLa representación gráfica e imagen de la marca;\nIII.- \tLas especificaciones técnicas que definan las cualidades o características particulares del producto o servicio tales como el origen de las materias primas, las condiciones de producción, su procedimiento de transformación, sus características físicas, químicas, tóxicas, bacteriológicas o de utilización, su composición o etiquetado, entre otros;\nIV.- \tEl procedimiento de comprobación de las cualidades o características específicas señaladas en la fracción anterior;\nV.- \tLas modalidades y periodicidad de los controles de calidad;\nVI.- \tEl régimen de sanciones para el caso de incumplimiento de las reglas de uso;\nVII.- \tLa indicación de que la marca no podrá ser objeto de licencia;\nVIII.- \tLa indicación sobre el ejercicio de las acciones legales de protección;\nIX.- \tEn su caso, las normas oficiales mexicanas, estándares o cualquier otra norma o lineamiento internacional que apliquen, y\nX.- \tLas demás que la persona solicitante estime pertinentes.\nEn el caso de la fracción VIII del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos frente a terceros."
+  },
+  {
+   "numero": "187",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "La marca de certificación no será objeto de licencia, quedando su uso reservado a las personas que cumplan con las condiciones determinadas en las reglas para su uso.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Las marcas de certificación se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 187.- La marca de certificación no será objeto de licencia, quedando su uso reservado a las personas que cumplan con las condiciones determinadas en las reglas para su uso.\nLas marcas de certificación se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas."
+  },
+  {
+   "numero": "188",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "La persona titular de una marca de certificación autorizará su uso a toda persona cuyo producto o servicio cumpla con las condiciones determinadas en las reglas de uso.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Solo las personas usuarias autorizadas podrán usar junto con la marca de certificación el término “Marca de Certificación Registrada”."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 188.- La persona titular de una marca de certificación autorizará su uso a toda persona cuyo producto o servicio cumpla con las condiciones determinadas en las reglas de uso.\nSolo las personas usuarias autorizadas podrán usar junto con la marca de certificación el término “Marca de Certificación Registrada”."
+  },
+  {
+   "numero": "189",
+   "capitulo_codigo": "II",
+   "capitulo_titulo": "De las Marcas Colectivas y de Certificación",
+   "texto_intro": "El registro de una marca de certificación será cancelado cuando su titular:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "No controle o no pueda ejercer legítimamente el control sobre el uso de la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Se involucre en la producción o en la comercialización de cualquier producto o servicio al que se aplique la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Permita el uso de la marca para fines distintos a la certificación, o",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "Se niegue de manera discriminatoria a certificar o continuar certificando los productos o servicios de cualquier persona que mantenga las normas o condiciones que certifique dicha marca.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 189.- El registro de una marca de certificación será cancelado cuando su titular:\nI.- No controle o no pueda ejercer legítimamente el control sobre el uso de la marca;\nII.- Se involucre en la producción o en la comercialización de cualquier producto o servicio al que se aplique la marca;\nIII.- Permita el uso de la marca para fines distintos a la certificación, o\nIV.- Se niegue de manera discriminatoria a certificar o continuar certificando los productos o servicios de cualquier persona que mantenga las normas o condiciones que certifique dicha marca."
+  },
+  {
+   "numero": "190",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "Para efectos de esta Ley, se entenderá que una marca es notoriamente conocida en México cuando un sector determinado del público o de los círculos comerciales del país, conoce la marca como consecuencia de las actividades comerciales desarrolladas en México o en el extranjero por una persona que emplea esa marca en relación con sus productos o servicios o bien, como consecuencia de la promoción o publicidad de la misma.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Se entenderá que una marca es famosa en México cuando sea conocida por la mayoría del público consumidor, o bien, cuando ésta tenga una difusión o reconocimiento en el comercio global.",
+    "A efecto de demostrar la notoriedad o fama de la marca, podrán emplearse todos los medios probatorios permitidos por esta Ley."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 190.- Para efectos de esta Ley, se entenderá que una marca es notoriamente conocida en México cuando un sector determinado del público o de los círculos comerciales del país, conoce la marca como consecuencia de las actividades comerciales desarrolladas en México o en el extranjero por una persona que emplea esa marca en relación con sus productos o servicios o bien, como consecuencia de la promoción o publicidad de la misma.\nSe entenderá que una marca es famosa en México cuando sea conocida por la mayoría del público consumidor, o bien, cuando ésta tenga una difusión o reconocimiento en el comercio global.\nA efecto de demostrar la notoriedad o fama de la marca, podrán emplearse todos los medios probatorios permitidos por esta Ley."
+  },
+  {
+   "numero": "191",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "La declaratoria o cualquiera de sus actualizaciones constituyen un acto administrativo por medio del cual el Instituto declara, con base en los elementos de prueba aportados, que las condiciones por virtud de las cuales una marca es notoriamente conocida o famosa, subsisten al tiempo en que el acto se emite.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Los impedimentos previstos en el artículo 173, fracciones XVI y XVII, para la protección de marcas notoriamente conocidas o famosas, se aplicarán con independencia de que éstas se encuentren registradas o declaradas."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 191.- La declaratoria o cualquiera de sus actualizaciones constituyen un acto administrativo por medio del cual el Instituto declara, con base en los elementos de prueba aportados, que las condiciones por virtud de las cuales una marca es notoriamente conocida o famosa, subsisten al tiempo en que el acto se emite.\nLos impedimentos previstos en el artículo 173, fracciones XVI y XVII, para la protección de marcas notoriamente conocidas o famosas, se aplicarán con independencia de que éstas se encuentren registradas o declaradas."
+  },
+  {
+   "numero": "192",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "Para efectos de obtener la declaratoria de notoriedad o fama, la persona solicitante aportará los siguientes datos:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "El sector del público integrado por las personas consumidoras reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Otros sectores del público diversos a las personas consumidoras reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Los círculos comerciales integrados por las personas comerciantes, industriales o prestadoras de servicios relacionadas con el género de productos o servicios, que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "La fecha de primer uso, el tiempo de uso continuo y el tiempo de publicidad efectiva de la marca en México y, en su caso, en el extranjero;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "V",
+     "texto": "Los canales de comercialización en México y, en su caso, en el extranjero;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VI",
+     "texto": "Los medios de difusión de la marca en México y, en su caso, en el extranjero;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VII",
+     "texto": "Las licencias o franquicias que se hayan otorgado en relación con la marca, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VIII",
+     "texto": "El porcentaje de la participación de la marca en el sector o segmento correspondiente del mercado.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 192.- Para efectos de obtener la declaratoria de notoriedad o fama, la persona solicitante aportará los siguientes datos:\nI.- \tEl sector del público integrado por las personas consumidoras reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;\nII.- \tOtros sectores del público diversos a las personas consumidoras reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;\nIII.- \tLos círculos comerciales integrados por las personas comerciantes, industriales o prestadoras de servicios relacionadas con el género de productos o servicios, que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;\nIV.- \tLa fecha de primer uso, el tiempo de uso continuo y el tiempo de publicidad efectiva de la marca en México y, en su caso, en el extranjero;\nV.- \tLos canales de comercialización en México y, en su caso, en el extranjero;\nVI.- \tLos medios de difusión de la marca en México y, en su caso, en el extranjero;\nVII.- \tLas licencias o franquicias que se hayan otorgado en relación con la marca, y\nVIII.- \tEl porcentaje de la participación de la marca en el sector o segmento correspondiente del mercado."
+  },
+  {
+   "numero": "193",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "El Instituto presumirá, salvo prueba en contrario, que las condiciones que originaron la declaratoria o sus actualizaciones, subsisten por un período de cinco años a partir de la fecha de su expedición; en consecuencia, durante dicho período deberá aplicar según corresponda, el impedimento previsto en el artículo 173, fracción XVI o el previsto en la fracción XVII, de manera expedita.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "La declaratoria podrá actualizarse en cualquier tiempo, a petición de quien tenga interés jurídico, siempre que acredite que las condiciones que le dieron origen subsisten a la fecha de la solicitud respectiva."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 193.- El Instituto presumirá, salvo prueba en contrario, que las condiciones que originaron la declaratoria o sus actualizaciones, subsisten por un período de cinco años a partir de la fecha de su expedición; en consecuencia, durante dicho período deberá aplicar según corresponda, el impedimento previsto en el artículo 173, fracción XVI o el previsto en la fracción XVII, de manera expedita.\nLa declaratoria podrá actualizarse en cualquier tiempo, a petición de quien tenga interés jurídico, siempre que acredite que las condiciones que le dieron origen subsisten a la fecha de la solicitud respectiva."
+  },
+  {
+   "numero": "194",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "La solicitud de declaración de notoriedad o fama se hará con las formalidades que para las solicitudes y promociones están señaladas en esta Ley y su Reglamento, a la que se acompañarán los elementos probatorios que funden la petición y en la que se expresará cuando menos lo siguiente:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Nombre, nacionalidad, domicilio, teléfono y correo electrónico de la persona solicitante y, en su caso, de su representante, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Los documentos y elementos probatorios que se acompañan a la solicitud.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 194.- La solicitud de declaración de notoriedad o fama se hará con las formalidades que para las solicitudes y promociones están señaladas en esta Ley y su Reglamento, a la que se acompañarán los elementos probatorios que funden la petición y en la que se expresará cuando menos lo siguiente:\nI.- \tNombre, nacionalidad, domicilio, teléfono y correo electrónico de la persona solicitante y, en su caso, de su representante, y\nII.- \tLos documentos y elementos probatorios que se acompañan a la solicitud."
+  },
+  {
+   "numero": "195",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los elementos, datos y documentos aportados.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Si a juicio del Instituto, éstos no satisfacen los requisitos legales o resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, se prevendrá a la persona solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de cuatro meses.",
+    "Si la persona solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud será desechada."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 195.- Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los elementos, datos y documentos aportados.\nSi a juicio del Instituto, éstos no satisfacen los requisitos legales o resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, se prevendrá a la persona solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de cuatro meses.\nSi la persona solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud será desechada."
+  },
+  {
+   "numero": "196",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá la declaratoria correspondiente.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "En caso de que el Instituto niegue el otorgamiento de la declaratoria, lo notificará por escrito a la persona solicitante, expresando los motivos y fundamentos legales de su resolución y valorando todos los elementos probatorios recibidos."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 196.- Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá la declaratoria correspondiente.\nEn caso de que el Instituto niegue el otorgamiento de la declaratoria, lo notificará por escrito a la persona solicitante, expresando los motivos y fundamentos legales de su resolución y valorando todos los elementos probatorios recibidos."
+  },
+  {
+   "numero": "197",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "Las resoluciones sobre declaratorias de notoriedad o fama serán publicadas en la Gaceta.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 197.- Las resoluciones sobre declaratorias de notoriedad o fama serán publicadas en la Gaceta."
+  },
+  {
+   "numero": "198",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "Procederá la nulidad de la declaratoria cuando:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Se haya otorgado en contravención a las disposiciones de esta Ley, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Se hubiese concedido a quien no tuviera derecho a obtenerla. Las declaraciones administrativas de nulidad se harán por el Instituto, a petición de quien tenga interés jurídico y acredite los supuestos en los que funda su solicitud.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 198.- Procederá la nulidad de la declaratoria cuando:\nI.- Se haya otorgado en contravención a las disposiciones de esta Ley, y\nII.- Se hubiese concedido a quien no tuviera derecho a obtenerla.\nLas declaraciones administrativas de nulidad se harán por el Instituto, a petición de quien tenga interés jurídico y acredite los supuestos en los que funda su solicitud."
+  },
+  {
+   "numero": "199",
+   "capitulo_codigo": "III",
+   "capitulo_titulo": "De las Marcas Notoriamente Conocidas y Famosas",
+   "texto_intro": "Para efectos de su transmisión, la declaratoria se considerará ligada al o los registros marcarios que le dieron origen.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 199.- Para efectos de su transmisión, la declaratoria se considerará ligada al o los registros marcarios que le dieron origen."
+  },
+  {
+   "numero": "200",
+   "capitulo_codigo": "IV",
+   "capitulo_titulo": "De los Avisos Comerciales",
+   "texto_intro": "El derecho exclusivo para usar un aviso comercial se obtendrá mediante su registro ante el Instituto.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 200.- El derecho exclusivo para usar un aviso comercial se obtendrá mediante su registro ante el Instituto."
+  },
+  {
+   "numero": "201",
+   "capitulo_codigo": "IV",
+   "capitulo_titulo": "De los Avisos Comerciales",
+   "texto_intro": "Se considera aviso comercial a las frases u oraciones que tengan por objeto anunciar al público establecimientos o negociaciones comerciales, industriales o de servicios, productos o servicios, para distinguirlos de otros de su misma especie o clase en el mercado.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 201.- Se considera aviso comercial a las frases u oraciones que tengan por objeto anunciar al público establecimientos o negociaciones comerciales, industriales o de servicios, productos o servicios, para distinguirlos de otros de su misma especie o clase en el mercado."
+  },
+  {
+   "numero": "202",
+   "capitulo_codigo": "IV",
+   "capitulo_titulo": "De los Avisos Comerciales",
+   "texto_intro": "Si el aviso comercial tiene por objeto anunciar productos o servicios, éstos deberán especificarse en la solicitud de registro.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 202.- Si el aviso comercial tiene por objeto anunciar productos o servicios, éstos deberán especificarse en la solicitud de registro."
+  },
+  {
+   "numero": "203",
+   "capitulo_codigo": "IV",
+   "capitulo_titulo": "De los Avisos Comerciales",
+   "texto_intro": "Se deroga.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 203.- Se deroga."
+  },
+  {
+   "numero": "204",
+   "capitulo_codigo": "IV",
+   "capitulo_titulo": "De los Avisos Comerciales",
+   "texto_intro": "El registro de un aviso comercial tendrá una vigencia de diez años a partir de su otorgamiento y podrá renovarse por periodos de la misma duración.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 204.- El registro de un aviso comercial tendrá una vigencia de diez años a partir de su otorgamiento y podrá renovarse por periodos de la misma duración."
+  },
+  {
+   "numero": "205",
+   "capitulo_codigo": "IV",
+   "capitulo_titulo": "De los Avisos Comerciales",
+   "texto_intro": "Los avisos comerciales se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 205.- Los avisos comerciales se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas."
+  },
+  {
+   "numero": "206",
+   "capitulo_codigo": "V",
+   "capitulo_titulo": "De los Nombres Comerciales",
+   "texto_intro": "El nombre comercial de una empresa o establecimiento industrial, comercial o de servicios y el derecho a su uso exclusivo estarán protegidos, sin necesidad de registro. La protección abarcará la zona geográfica de la clientela efectiva de la empresa o establecimiento al que se aplique el nombre comercial y se extenderá a toda la República si existe difusión masiva y constante a nivel nacional del mismo.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 206.- El nombre comercial de una empresa o establecimiento industrial, comercial o de servicios y el derecho a su uso exclusivo estarán protegidos, sin necesidad de registro. La protección abarcará la zona geográfica de la clientela efectiva de la empresa o establecimiento al que se aplique el nombre comercial y se extenderá a toda la República si existe difusión masiva y constante a nivel nacional del mismo."
+  },
+  {
+   "numero": "207",
+   "capitulo_codigo": "V",
+   "capitulo_titulo": "De los Nombres Comerciales",
+   "texto_intro": "Quien esté usando un nombre comercial podrá solicitar al Instituto, la publicación del mismo en la Gaceta. Dicha publicación producirá el efecto de establecer la presunción de la buena fe en la adopción y uso del nombre comercial.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 207.- Quien esté usando un nombre comercial podrá solicitar al Instituto, la publicación del mismo en la Gaceta. Dicha publicación producirá el efecto de establecer la presunción de la buena fe en la adopción y uso del nombre comercial."
+  },
+  {
+   "numero": "208",
+   "capitulo_codigo": "V",
+   "capitulo_titulo": "De los Nombres Comerciales",
+   "texto_intro": "La solicitud de publicación de un nombre comercial se presentará al Instituto acompañada de los documentos que acrediten el uso efectivo del nombre comercial aplicado a un giro determinado.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 208.- La solicitud de publicación de un nombre comercial se presentará al Instituto acompañada de los documentos que acrediten el uso efectivo del nombre comercial aplicado a un giro determinado."
+  },
+  {
+   "numero": "209",
+   "capitulo_codigo": "V",
+   "capitulo_titulo": "De los Nombres Comerciales",
+   "texto_intro": "Recibida la solicitud y satisfechos los requisitos legales, se efectuará el examen de fondo a fin de determinar si existe algún nombre comercial idéntico o semejante en grado de confusión aplicado al mismo giro, en trámite o publicado con anterioridad, o a una marca en trámite de registro o a una ya registrada idéntica o semejante en grado de confusión que ampare productos o servicios iguales o similares relacionados con el giro preponderante de la empresa o establecimiento de que se trate. De no encontrarse anterioridad procederá la publicación.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "El Instituto deberá realizar la publicación a que se refiere el párrafo anterior, en un plazo que no deberá exceder de cinco meses contado a partir de la presentación de la solicitud o, en su caso, del día en que se haya solventado el último requerimiento emitido por el Instituto."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 209.- Recibida la solicitud y satisfechos los requisitos legales, se efectuará el examen de fondo a fin de determinar si existe algún nombre comercial idéntico o semejante en grado de confusión aplicado al mismo giro, en trámite o publicado con anterioridad, o a una marca en trámite de registro o a una ya registrada idéntica o semejante en grado de confusión que ampare productos o servicios iguales o similares relacionados con el giro preponderante de la empresa o establecimiento de que se trate. De no encontrarse anterioridad procederá la publicación.\nEl Instituto deberá realizar la publicación a que se refiere el párrafo anterior, en un plazo que no deberá exceder de cinco meses contado a partir de la presentación de la solicitud o, en su caso, del día en que se haya solventado el último requerimiento emitido por el Instituto."
+  },
+  {
+   "numero": "210",
+   "capitulo_codigo": "V",
+   "capitulo_titulo": "De los Nombres Comerciales",
+   "texto_intro": "No se publicarán los nombres comerciales que carezcan de elementos que hagan distinguir a la empresa o establecimiento de que se trate de otros de su género, ni aquéllos que contravengan en lo aplicable, las disposiciones contenidas en el artículo 173 de esta Ley.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 210.- No se publicarán los nombres comerciales que carezcan de elementos que hagan distinguir a la empresa o establecimiento de que se trate de otros de su género, ni aquéllos que contravengan en lo aplicable, las disposiciones contenidas en el artículo 173 de esta Ley."
+  },
+  {
+   "numero": "211",
+   "capitulo_codigo": "V",
+   "capitulo_titulo": "De los Nombres Comerciales",
+   "texto_intro": "Los efectos de la publicación de un nombre comercial durarán diez años, a partir de su otorgamiento y podrán renovarse por periodos de la misma duración. De no renovarse, cesarán sus efectos.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 211.- Los efectos de la publicación de un nombre comercial durarán diez años, a partir de su otorgamiento y podrán renovarse por periodos de la misma duración. De no renovarse, cesarán sus efectos."
+  },
+  {
+   "numero": "212",
+   "capitulo_codigo": "V",
+   "capitulo_titulo": "De los Nombres Comerciales",
+   "texto_intro": "En la transmisión de una empresa o establecimiento se comprenderá el derecho de uso exclusivo del nombre comercial, salvo estipulación en contrario.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 212.- En la transmisión de una empresa o establecimiento se comprenderá el derecho de uso exclusivo del nombre comercial, salvo estipulación en contrario."
+  },
+  {
+   "numero": "213",
+   "capitulo_codigo": "V",
+   "capitulo_titulo": "De los Nombres Comerciales",
+   "texto_intro": "El nombre comercial se regirá en lo que sea aplicable y no haya disposición especial, por lo establecido en esta Ley para las marcas.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 213.- El nombre comercial se regirá en lo que sea aplicable y no haya disposición especial, por lo establecido en esta Ley para las marcas."
+  },
+  {
+   "numero": "214",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Para obtener el registro de una marca deberá presentarse solicitud ante el Instituto con los siguientes datos:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "El nombre, domicilio y correo electrónico de la persona solicitante;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "La representación del signo que constituya la marca.",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "La fecha de primer uso de la marca, la que no podrá ser modificada ulteriormente, o en su caso, la mención de que no se ha usado. A falta de indicación, se entenderá que no se ha usado la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "Los productos o servicios específicos en los que se aplicará la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "V",
+     "texto": "Los elementos sobre los cuales no se solicita protección y que se reproducen en la marca, en términos del artículo 216 de esta Ley;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VI",
+     "texto": "La denominación o descripción de la marca, cuando proceda;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VII",
+     "texto": "La ubicación de uno o más establecimientos o negociaciones relacionados con la marca, siempre y cuando, se haya señalado fecha de primer uso;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VIII",
+     "texto": "Cuando se trate de marcas conformadas únicamente por palabras, letras o números previstos por el alfabeto latino internacional, se deberá incluir la manifestación expresa de que en la representación del signo se han usado caracteres estándar. En este caso, se entenderá que la persona solicitante se reserva el uso en cualquier tipo o tamaño de letra;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IX",
+     "texto": "Cuando la marca de certificación contenga una indicación geográfica, se deberá incluir su manifestación expresa, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "X",
+     "texto": "Los demás que prevenga el Reglamento de esta Ley.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [
+    "Cualquier omisión o error de la información proporcionada por la persona solicitante de las fracciones V y VI de este artículo, se subsanará por el Instituto atendiendo al signo incorporado en el apartado de representación del signo."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 214.- Para obtener el registro de una marca deberá presentarse solicitud ante el Instituto con los siguientes datos:\nI.- \tEl nombre, domicilio y correo electrónico de la persona solicitante;\nII.- \tLa representación del signo que constituya la marca.\nIII.- \tLa fecha de primer uso de la marca, la que no podrá ser modificada ulteriormente, o en su caso, la mención de que no se ha usado. A falta de indicación, se entenderá que no se ha usado la marca;\nIV.- \tLos productos o servicios específicos en los que se aplicará la marca;\nV.- \tLos elementos sobre los cuales no se solicita protección y que se reproducen en la marca, en términos del artículo 216 de esta Ley;\nVI.- \tLa denominación o descripción de la marca, cuando proceda;\nVII.- \tLa ubicación de uno o más establecimientos o negociaciones relacionados con la marca, siempre y cuando, se haya señalado fecha de primer uso;\nVIII.- \tCuando se trate de marcas conformadas únicamente por palabras, letras o números previstos por el alfabeto latino internacional, se deberá incluir la manifestación expresa de que en la representación del signo se han usado caracteres estándar. En este caso, se entenderá que la persona solicitante se reserva el uso en cualquier tipo o tamaño de letra;\nIX.- \tCuando la marca de certificación contenga una indicación geográfica, se deberá incluir su manifestación expresa, y\nX.- \tLos demás que prevenga el Reglamento de esta Ley.\nCualquier omisión o error de la información proporcionada por la persona solicitante de las fracciones V y VI de este artículo, se subsanará por el Instituto atendiendo al signo incorporado en el apartado de representación del signo."
+  },
+  {
+   "numero": "215",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "A la solicitud de registro de marca deberá acompañarse el comprobante del pago de la tarifa correspondiente.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 215.- A la solicitud de registro de marca deberá acompañarse el comprobante del pago de la tarifa correspondiente."
+  },
+  {
+   "numero": "216",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Constituyen elementos no reservables, aquéllos que carezcan de poder distintivo al referirse a aspectos generales, tales como elementos descriptivos o indicativos de la especie, calidad, cantidad, composición, destino, valor, lugar de origen de los productos, época o fecha de elaboración o características comunes de los productos o servicios que ampara la marca.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Los elementos gráficos que no forman parte de la marca deberán señalarse por líneas discontinuas o punteadas en su representación."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 216.- Constituyen elementos no reservables, aquéllos que carezcan de poder distintivo al referirse a aspectos generales, tales como elementos descriptivos o indicativos de la especie, calidad, cantidad, composición, destino, valor, lugar de origen de los productos, época o fecha de elaboración o características comunes de los productos o servicios que ampara la marca.\nLos elementos gráficos que no forman parte de la marca deberán señalarse por líneas discontinuas o punteadas en su representación."
+  },
+  {
+   "numero": "217",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "En caso de que la marca sea solicitada a nombre de dos o más personas se deberán presentar con la solicitud, las reglas convenidas y firmadas por las personas solicitantes, las cuales deberán establecer:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "El uso, licencia y transmisión de derechos de la marca o, en su caso, para la defensa de la misma;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "La cancelación del registro, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "La limitación de productos y servicios. Cualquiera de las personas cotitulares podrá iniciar las acciones correspondientes para la defensa de sus derechos, salvo estipulación en contrario en el convenio respectivo.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 217.- En caso de que la marca sea solicitada a nombre de dos o más personas se deberán presentar con la solicitud, las reglas convenidas y firmadas por las personas solicitantes, las cuales deberán establecer:\nI.- \tEl uso, licencia y transmisión de derechos de la marca o, en su caso, para la defensa de la misma;\nII.- \tLa cancelación del registro, y\nIII.- \tLa limitación de productos y servicios.\nCualquiera de las personas cotitulares podrá iniciar las acciones correspondientes para la defensa de sus derechos, salvo estipulación en contrario en el convenio respectivo."
+  },
+  {
+   "numero": "218",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Cuando se solicite un registro de marca en México, dentro de los plazos que determinen los Tratados Internacionales o, en su defecto, dentro de los seis meses siguientes de haberlo hecho en otros países, podrá reconocerse como fecha de prioridad la de presentación de la solicitud en que lo fue primero.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 218.- Cuando se solicite un registro de marca en México, dentro de los plazos que determinen los Tratados Internacionales o, en su defecto, dentro de los seis meses siguientes de haberlo hecho en otros países, podrá reconocerse como fecha de prioridad la de presentación de la solicitud en que lo fue primero."
+  },
+  {
+   "numero": "219",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Para reconocer la prioridad a que se refiere el artículo anterior se deberán satisfacer los siguientes requisitos:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Que al solicitar el registro se reclame la prioridad y se haga constar el país de origen y la fecha de presentación de la solicitud en ese país, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Que la solicitud presentada en México no pretenda aplicarse a productos o servicios adicionales de los contemplados en la presentada en el extranjero, en cuyo caso la prioridad será reconocida solo a los presentados en el país de origen.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 219.- Para reconocer la prioridad a que se refiere el artículo anterior se deberán satisfacer los siguientes requisitos:\nI.- Que al solicitar el registro se reclame la prioridad y se haga constar el país de origen y la fecha de presentación de la solicitud en ese país, y\nII.- Que la solicitud presentada en México no pretenda aplicarse a productos o servicios adicionales de los contemplados en la presentada en el extranjero, en cuyo caso la prioridad será reconocida solo a los presentados en el país de origen."
+  },
+  {
+   "numero": "220",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Si al momento de presentarse la solicitud, ésta satisface lo requerido por los artículos 13, 14, 214 fracciones I, II y IV y 215, de esta Ley, esa será su fecha de presentación. En caso contrario, se tendrá como tal, el día en que dé cumplimiento a dichos requisitos, dentro del plazo legal respectivo.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "La fecha de presentación determinará la prelación entre las solicitudes."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 220.- Si al momento de presentarse la solicitud, ésta satisface lo requerido por los artículos 13, 14, 214 fracciones I, II y IV y 215, de esta Ley, esa será su fecha de presentación. En caso contrario, se tendrá como tal, el día en que dé cumplimiento a dichos requisitos, dentro del plazo legal respectivo.\nLa fecha de presentación determinará la prelación entre las solicitudes."
+  },
+  {
+   "numero": "221",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Recibida la solicitud, el Instituto procederá a su publicación en la Gaceta, a más tardar en los diez días siguientes a su recepción y otorgará un plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos dicha publicación, para que cualquier persona que tenga interés, se oponga a la solicitud de registro o publicación por considerar que ésta incurre en los supuestos previstos en los artículos 12 y 173 de esta Ley.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Si la oposición se presenta fuera del plazo establecido, ésta será desechada de plano."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 221.- Recibida la solicitud, el Instituto procederá a su publicación en la Gaceta, a más tardar en los diez días siguientes a su recepción y otorgará un plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos dicha publicación, para que cualquier persona que tenga interés, se oponga a la solicitud de registro o publicación por considerar que ésta incurre en los supuestos previstos en los artículos 12 y 173 de esta Ley.\nSi la oposición se presenta fuera del plazo establecido, ésta será desechada de plano."
+  },
+  {
+   "numero": "222",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "La oposición deberá presentarse por escrito, acompañarse de las pruebas respectivas, así como del comprobante de pago de la tarifa correspondiente.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Para el trámite de la oposición se admitirán toda clase de pruebas con excepción de la confesional y testimonial, salvo que el testimonio o la confesión estén contenidos en documental, así como las que sean contrarias al orden público o al derecho."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 222.- La oposición deberá presentarse por escrito, acompañarse de las pruebas respectivas, así como del comprobante de pago de la tarifa correspondiente.\nPara el trámite de la oposición se admitirán toda clase de pruebas con excepción de la confesional y testimonial, salvo que el testimonio o la confesión estén contenidos en documental, así como las que sean contrarias al orden público o al derecho."
+  },
+  {
+   "numero": "223",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Si la oposición presentada o las promociones derivadas de ésta, no cumplieren con el acreditamiento de personalidad o el pago correspondiente, el Instituto requerirá por única ocasión a la persona oponente para que dentro de un plazo de cinco días, contado a partir del día hábil siguiente al de la notificación, subsane la omisión en que incurrió o haga las aclaraciones que correspondan.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "En caso de que la persona oponente no cumpla con el requerimiento o éste se presente fuera del plazo establecido en el párrafo anterior, la oposición será desechada de plano.",
+    "Las oposiciones que se hayan presentado sin cumplir con los requisitos establecidos se notificarán una vez que hayan sido subsanados los requerimientos respectivos."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 223.- Si la oposición presentada o las promociones derivadas de ésta, no cumplieren con el acreditamiento de personalidad o el pago correspondiente, el Instituto requerirá por única ocasión a la persona oponente para que dentro de un plazo de cinco días, contado a partir del día hábil siguiente al de la notificación, subsane la omisión en que incurrió o haga las aclaraciones que correspondan.\nEn caso de que la persona oponente no cumpla con el requerimiento o éste se presente fuera del plazo establecido en el párrafo anterior, la oposición será desechada de plano.\nLas oposiciones que se hayan presentado sin cumplir con los requisitos establecidos se notificarán una vez que hayan sido subsanados los requerimientos respectivos."
+  },
+  {
+   "numero": "224",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "La oposición al registro o publicación solicitado no prejuzgará sobre el resultado del examen de fondo que realice el Instituto sobre la solicitud.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 224.- La oposición al registro o publicación solicitado no prejuzgará sobre el resultado del examen de fondo que realice el Instituto sobre la solicitud."
+  },
+  {
+   "numero": "225",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Concluido el plazo de un mes al que se refiere el artículo 221 de esta Ley, se procederá a realizar el examen de forma de la solicitud.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Finalizado el examen de forma, se procederá a realizar el examen de fondo, a fin de verificar si la marca es registrable en los términos de esta Ley.",
+    "Si la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento para el registro de la marca, o bien, en caso de presentarse oposición a la solicitud, el Instituto lo comunicará por escrito a la persona solicitante para que manifieste lo que a su derecho convenga y presente las pruebas que estime convenientes.",
+    "El Instituto otorgará un plazo de dos meses a la persona solicitante para que manifieste lo que a su derecho convenga en relación con los requisitos, oposiciones o impedimentos.",
+    "Si la persona interesada no contesta dentro del plazo concedido, se considerará abandonada su solicitud."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 225.- Concluido el plazo de un mes al que se refiere el artículo 221 de esta Ley, se procederá a realizar el examen de forma de la solicitud.\nFinalizado el examen de forma, se procederá a realizar el examen de fondo, a fin de verificar si la marca es registrable en los términos de esta Ley.\nSi la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento para el registro de la marca, o bien, en caso de presentarse oposición a la solicitud, el Instituto lo comunicará por escrito a la persona solicitante para que manifieste lo que a su derecho convenga y presente las pruebas que estime convenientes.\nEl Instituto otorgará un plazo de dos meses a la persona solicitante para que manifieste lo que a su derecho convenga en relación con los requisitos, oposiciones o impedimentos.\nSi la persona interesada no contesta dentro del plazo concedido, se considerará abandonada su solicitud."
+  },
+  {
+   "numero": "226",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "La persona interesada tendrá un plazo adicional de dos meses para manifestarse respecto a los requisitos, oposiciones o impedimentos a que se refiere el artículo anterior, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "El plazo adicional, se contará a partir del día hábil siguiente al del vencimiento del plazo de dos meses previsto en el artículo 225 anterior.",
+    "La solicitud se tendrá por abandonada si la persona solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 226.- La persona interesada tendrá un plazo adicional de dos meses para manifestarse respecto a los requisitos, oposiciones o impedimentos a que se refiere el artículo anterior, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.\nEl plazo adicional, se contará a partir del día hábil siguiente al del vencimiento del plazo de dos meses previsto en el artículo 225 anterior.\nLa solicitud se tendrá por abandonada si la persona solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes."
+  },
+  {
+   "numero": "227",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Si la persona solicitante, a efecto de subsanar los requisitos, impedimentos o anterioridades, o de forma voluntaria modifica la marca; aumenta el número de productos o servicios para los que se solicita el registro; o sustituye o cambia el producto o servicio señalado en la solicitud inicial, ésta se sujetará a un nuevo trámite.",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Efectuar el pago de la tarifa correspondiente a una nueva solicitud;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Satisfacer los requisitos de los artículos 214 y 215 de esta Ley y los aplicables de su Reglamento, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Ser objeto de la publicación a la que se refiere el artículo 221 de esta Ley. En este supuesto, se considerará como fecha de presentación aquélla en la que se solicite el nuevo trámite.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [
+    "El nuevo trámite deberá:"
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 227.- Si la persona solicitante, a efecto de subsanar los requisitos, impedimentos o anterioridades, o de forma voluntaria modifica la marca; aumenta el número de productos o servicios para los que se solicita el registro; o sustituye o cambia el producto o servicio señalado en la solicitud inicial, ésta se sujetará a un nuevo trámite.\nEl nuevo trámite deberá:\nI.- \tEfectuar el pago de la tarifa correspondiente a una nueva solicitud;\nII.- \tSatisfacer los requisitos de los artículos 214 y 215 de esta Ley y los aplicables de su Reglamento, y\nIII.- \tSer objeto de la publicación a la que se refiere el artículo 221 de esta Ley.\nEn este supuesto, se considerará como fecha de presentación aquélla en la que se solicite el nuevo trámite."
+  },
+  {
+   "numero": "228",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "El Instituto suspenderá el trámite de una solicitud de registro o publicación, en los siguientes casos:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Cuando la solicitud se encuentre en alguno de los impedimentos relativos a la existencia de uno o varios registros o publicaciones de uno o varios nombres comerciales, idénticos o similares en grado de confusión y se presente una solicitud de declaración administrativa de nulidad, caducidad o cancelación sobre la marca o aviso comercial registrado o de cesación de los efectos de un nombre comercial publicado. La suspensión se ordenará de oficio o se solicitará a petición de cualquiera de las partes en el procedimiento de declaración administrativa correspondiente, dentro del plazo de dos meses o el adicional previstos en los artículos 225 y 226 de esta Ley. En caso de que los procedimientos sean iniciados a petición de parte, la persona solicitante deberá manifestarlo por escrito en el expediente de registro de marca en la cual solicita la suspensión. En caso de no realizarlo se continuará con el procedimiento de registro de marca hasta su conclusión;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Cuando existan registros o publicaciones que estén siendo objeto de alguna acción o acciones de nulidad, caducidad, cancelación o cesación de efectos, o bien, cuando se hayan resuelto, pero estén siendo impugnados, y existan o presenten posteriores solicitudes idénticas o semejantes en grado de confusión aplicadas a productos o servicios similares de la persona titular cuyos registros o publicaciones están siendo objeto de las acciones antes referidas, el trámite de las posteriores solicitudes será suspendido hasta en tanto las citadas acciones no se resuelvan en forma definitiva, a fin de no emitir resoluciones contradictorias, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Por orden de autoridad jurisdiccional o administrativa. Fracción recorrida DOF 03-04-2026",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 228.- El Instituto suspenderá el trámite de una solicitud de registro o publicación, en los siguientes casos:\nI.- \tCuando la solicitud se encuentre en alguno de los impedimentos relativos a la existencia de uno o varios registros o publicaciones de uno o varios nombres comerciales, idénticos o similares en grado de confusión y se presente una solicitud de declaración administrativa de nulidad, caducidad o cancelación sobre la marca o aviso comercial registrado o de cesación de los efectos de un nombre comercial publicado.\nLa suspensión se ordenará de oficio o se solicitará a petición de cualquiera de las partes en el procedimiento de declaración administrativa correspondiente, dentro del plazo de dos meses o el adicional previstos en los artículos 225 y 226 de esta Ley.\nEn caso de que los procedimientos sean iniciados a petición de parte, la persona solicitante deberá manifestarlo por escrito en el expediente de registro de marca en la cual solicita la suspensión. En caso de no realizarlo se continuará con el procedimiento de registro de marca hasta su conclusión;\nII.- \tCuando existan registros o publicaciones que estén siendo objeto de alguna acción o acciones de nulidad, caducidad, cancelación o cesación de efectos, o bien, cuando se hayan resuelto, pero estén siendo impugnados, y existan o presenten posteriores solicitudes idénticas o semejantes en grado de confusión aplicadas a productos o servicios similares de la persona titular cuyos registros o publicaciones están siendo objeto de las acciones antes referidas, el trámite de las posteriores solicitudes será suspendido hasta en tanto las citadas acciones no se resuelvan en forma definitiva, a fin de no emitir resoluciones contradictorias, y\nIII.- \tPor orden de autoridad jurisdiccional o administrativa.\nFracción recorrida DOF 03-04-2026"
+  },
+  {
+   "numero": "229",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Transcurrido el plazo de dos meses a que se refiere el artículo 225 de esta Ley, una vez desahogadas las pruebas, las actuaciones se pondrán a disposición de la persona solicitante y de las personas que hubieren presentado oposiciones para que, en su caso, formulen alegatos en un plazo de cinco días, los cuales serán tomados en cuenta por el Instituto. Transcurrido dicho plazo se procederá sin mayor trámite a dictar la resolución que corresponda dentro de un plazo que no podrá exceder de cinco meses.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 229.- Transcurrido el plazo de dos meses a que se refiere el artículo 225 de esta Ley, una vez desahogadas las pruebas, las actuaciones se pondrán a disposición de la persona solicitante y de las personas que hubieren presentado oposiciones para que, en su caso, formulen alegatos en un plazo de cinco días, los cuales serán tomados en cuenta por el Instituto. Transcurrido dicho plazo se procederá sin mayor trámite a dictar la resolución que corresponda dentro de un plazo que no podrá exceder de cinco meses."
+  },
+  {
+   "numero": "229 Bis",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "En caso de que el Instituto no emita requerimientos a la persona solicitante de un registro de marca o no se presente oposición sobre la solicitud, el plazo máximo de conclusión para que el Instituto resuelva la solicitud será de cinco meses contados a partir de la fecha de su presentación.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Los plazos previstos en el presente artículo y en el artículo 229 de esta Ley, resultan aplicables para las marcas, avisos comerciales y nombres comerciales, previstos en este Título."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 229 Bis.- En caso de que el Instituto no emita requerimientos a la persona solicitante de un registro de marca o no se presente oposición sobre la solicitud, el plazo máximo de conclusión para que el Instituto resuelva la solicitud será de cinco meses contados a partir de la fecha de su presentación.\nLos plazos previstos en el presente artículo y en el artículo 229 de esta Ley, resultan aplicables para las marcas, avisos comerciales y nombres comerciales, previstos en este Título."
+  },
+  {
+   "numero": "230",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá el título.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "En caso de que el Instituto niegue el registro de la marca, lo comunicará por escrito a la persona solicitante, expresando los motivos y fundamentos legales de su resolución.",
+    "El Instituto dictará la resolución que corresponda a las oposiciones recibidas, expresando los motivos y fundamentos legales de su resolución."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 230.- Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá el título.\nEn caso de que el Instituto niegue el registro de la marca, lo comunicará por escrito a la persona solicitante, expresando los motivos y fundamentos legales de su resolución.\nEl Instituto dictará la resolución que corresponda a las oposiciones recibidas, expresando los motivos y fundamentos legales de su resolución."
+  },
+  {
+   "numero": "231",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "El Instituto expedirá un título por cada marca, como constancia de su registro, en el cual se hará constar:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "El número de registro de la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "El signo que constituye la marca;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Los productos o servicios a los que se aplicará la marca, indicando la clase a la que corresponden;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "El nombre y domicilio de la persona titular;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "V",
+     "texto": "La ubicación del establecimiento, en su caso;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VI",
+     "texto": "Las fechas de presentación de la solicitud; de prioridad reconocida, y de primer uso, en su caso, así como la de expedición;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VII",
+     "texto": "Su vigencia, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VIII",
+     "texto": "La circunstancia de que la marca se otorgó por distintividad adquirida, en su caso. Solo podrán permitirse cambios en el título de una marca para corregir errores evidentes o de forma. Los cambios autorizados deberán ser publicados en la Gaceta.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 231.- El Instituto expedirá un título por cada marca, como constancia de su registro, en el cual se hará constar:\nI.- \tEl número de registro de la marca;\nII.- \tEl signo que constituye la marca;\nIII.- \tLos productos o servicios a los que se aplicará la marca, indicando la clase a la que corresponden;\nIV.- \tEl nombre y domicilio de la persona titular;\nV.- \tLa ubicación del establecimiento, en su caso;\nVI.- \tLas fechas de presentación de la solicitud; de prioridad reconocida, y de primer uso, en su caso, así como la de expedición;\nVII.- \tSu vigencia, y\nVIII.- \tLa circunstancia de que la marca se otorgó por distintividad adquirida, en su caso.\nSolo podrán permitirse cambios en el título de una marca para corregir errores evidentes o de forma. Los cambios autorizados deberán ser publicados en la Gaceta."
+  },
+  {
+   "numero": "232",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Las resoluciones sobre registros de marcas y sus renovaciones deberán ser publicadas en la Gaceta.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 232.- Las resoluciones sobre registros de marcas y sus renovaciones deberán ser publicadas en la Gaceta."
+  },
+  {
+   "numero": "233",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "La marca deberá usarse en territorio nacional, tal como fue registrada o con modificaciones que no alteren su carácter distintivo.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "La persona titular de una marca deberá declarar su uso real y efectivo, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente.",
+    "La declaración se presentará ante el Instituto durante los tres meses posteriores, contados a partir de que se cumpla el tercer año de haberse otorgado el registro.",
+    "El alcance de la protección del registro continuará sólo en aquellos productos o servicios sobre los cuales se haya declarado el uso.",
+    "Si la persona titular no declara el uso, el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 233.- La marca deberá usarse en territorio nacional, tal como fue registrada o con modificaciones que no alteren su carácter distintivo.\nLa persona titular de una marca deberá declarar su uso real y efectivo, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente.\nLa declaración se presentará ante el Instituto durante los tres meses posteriores, contados a partir de que se cumpla el tercer año de haberse otorgado el registro.\nEl alcance de la protección del registro continuará sólo en aquellos productos o servicios sobre los cuales se haya declarado el uso.\nSi la persona titular no declara el uso, el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto."
+  },
+  {
+   "numero": "234",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "El Instituto podrá declarar el registro y uso obligatorio de marcas en cualquier producto o servicio o prohibir o regular el uso de marcas, registradas o no, de oficio o a petición de organismos representativos, cuando:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "El uso de la marca sea un elemento asociado a competencia desleal, que cause distorsiones graves en la producción, distribución o comercialización de determinados productos o servicios;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "El uso de la marca impida la distribución, producción o comercialización eficaces de bienes y servicios, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "El uso de marcas impida, entorpezca o encarezca en casos de emergencia nacional y mientras dure ésta, la producción, prestación o distribución de bienes o servicios básicos para la población. La declaratoria correspondiente se publicará en el Diario Oficial.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 234.- El Instituto podrá declarar el registro y uso obligatorio de marcas en cualquier producto o servicio o prohibir o regular el uso de marcas, registradas o no, de oficio o a petición de organismos representativos, cuando:\nI.- \tEl uso de la marca sea un elemento asociado a competencia desleal, que cause distorsiones graves en la producción, distribución o comercialización de determinados productos o servicios;\nII.- \tEl uso de la marca impida la distribución, producción o comercialización eficaces de bienes y servicios, y\nIII.- \tEl uso de marcas impida, entorpezca o encarezca en casos de emergencia nacional y mientras dure ésta, la producción, prestación o distribución de bienes o servicios básicos para la población.\nLa declaratoria correspondiente se publicará en el Diario Oficial."
+  },
+  {
+   "numero": "235",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Si una marca no es usada durante tres años consecutivos en los productos o servicios para los que fue registrada, procederá la caducidad del registro, o en su caso, la caducidad parcial relativa a los productos o servicios que no se encuentren en uso, salvo que la persona titular o la persona usuaria que tenga concedida licencia, la hubiese usado durante los tres años consecutivos inmediatos anteriores a la presentación de la solicitud de declaración administrativa de caducidad, o que existan circunstancias surgidas independientemente de la voluntad de la persona titular de la marca que constituyan un obstáculo para el uso de la misma, tales como restricciones a la importación u otros requisitos gubernamentales aplicables a los bienes o servicios a los que se aplique la marca.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 235.- Si una marca no es usada durante tres años consecutivos en los productos o servicios para los que fue registrada, procederá la caducidad del registro, o en su caso, la caducidad parcial relativa a los productos o servicios que no se encuentren en uso, salvo que la persona titular o la persona usuaria que tenga concedida licencia, la hubiese usado durante los tres años consecutivos inmediatos anteriores a la presentación de la solicitud de declaración administrativa de caducidad, o que existan circunstancias surgidas independientemente de la voluntad de la persona titular de la marca que constituyan un obstáculo para el uso de la misma, tales como restricciones a la importación u otros requisitos gubernamentales aplicables a los bienes o servicios a los que se aplique la marca."
+  },
+  {
+   "numero": "236",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Las leyendas \"Marca Registrada\", “Marca Colectiva Registrada” o “Marca de Certificación Registrada”, las siglas \"M.R.\" o el símbolo ®, solo podrán usarse para los productos o servicios para los cuales dicha marca se encuentre registrada.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 236.- Las leyendas \"Marca Registrada\", “Marca Colectiva Registrada” o “Marca de Certificación Registrada”, las siglas \"M.R.\" o el símbolo ®, solo podrán usarse para los productos o servicios para los cuales dicha marca se encuentre registrada."
+  },
+  {
+   "numero": "237",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "La renovación del registro de una marca deberá solicitarse por la persona titular, dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia del registro.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Al presentar la solicitud de renovación, la persona titular deberá declarar el uso real y efectivo de la marca, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente.",
+    "El alcance de la protección del registro continuará sólo en aquellos productos o servicios sobre los cuales se haya declarado el uso.",
+    "Cuando no se declare el uso de la marca, el Instituto requerirá a la persona solicitante para que dentro del plazo de dos meses subsane la omisión. En caso de no cumplir con el requerimiento dentro del plazo señalado el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto.",
+    "Cuando la renovación sea presentada por la persona beneficiaria de un gravamen inscrito ante el Instituto no será necesario declarar el uso real y efectivo de la marca.",
+    "La resolución que emita el Instituto para la renovación del registro de marca se deberá realizar en un plazo máximo de tres meses contado a partir de la fecha de presentación de la solicitud o, en su caso, a partir de la fecha en que se subsane la omisión de declarar el uso de la marca o, de que fenezca el plazo del último requerimiento emitido por el Instituto.",
+    "Los plazos a que se refiere el párrafo anterior serán aplicables para las marcas, los avisos comerciales y los nombres comerciales previstos en este Título."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 237.- La renovación del registro de una marca deberá solicitarse por la persona titular, dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia del registro.\nAl presentar la solicitud de renovación, la persona titular deberá declarar el uso real y efectivo de la marca, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente.\nEl alcance de la protección del registro continuará sólo en aquellos productos o servicios sobre los cuales se haya declarado el uso.\nCuando no se declare el uso de la marca, el Instituto requerirá a la persona solicitante para que dentro del plazo de dos meses subsane la omisión. En caso de no cumplir con el requerimiento dentro del plazo señalado el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto.\nCuando la renovación sea presentada por la persona beneficiaria de un gravamen inscrito ante el Instituto no será necesario declarar el uso real y efectivo de la marca.\nLa resolución que emita el Instituto para la renovación del registro de marca se deberá realizar en un plazo máximo de tres meses contado a partir de la fecha de presentación de la solicitud o, en su caso, a partir de la fecha en que se subsane la omisión de declarar el uso de la marca o, de que fenezca el plazo del último requerimiento emitido por el Instituto.\nLos plazos a que se refiere el párrafo anterior serán aplicables para las marcas, los avisos comerciales y los nombres comerciales previstos en este Título."
+  },
+  {
+   "numero": "238",
+   "capitulo_codigo": "VI",
+   "capitulo_titulo": "Del Registro de Marcas",
+   "texto_intro": "Vencido el plazo al que se refiere el artículo 237 de esta Ley, sin que se presente la solicitud de renovación, el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 238.- Vencido el plazo al que se refiere el artículo 237 de esta Ley, sin que se presente la solicitud de renovación, el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto."
+  },
+  {
+   "numero": "239",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "La persona titular de una marca registrada o en trámite podrá conceder, mediante convenio, licencia de uso a una o más personas, con relación a todos o algunos de los productos o servicios a los que se aplique dicha marca, en términos de legislación común.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 239.- La persona titular de una marca registrada o en trámite podrá conceder, mediante convenio, licencia de uso a una o más personas, con relación a todos o algunos de los productos o servicios a los que se aplique dicha marca, en términos de legislación común."
+  },
+  {
+   "numero": "240",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Para inscribir una licencia en el Instituto bastará formular la solicitud correspondiente en los términos que fije el Reglamento de esta Ley.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Podrá solicitarse mediante una sola promoción la inscripción de licencias de derechos relativos a dos o más solicitudes en trámite o a dos o más marcas registradas cuando la persona licenciante y la persona licenciataria sean iguales en todos ellos. La persona solicitante deberá identificar cada una de las solicitudes, o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes o registros involucrados.",
+    "El Instituto resolverá la solicitud en un plazo máximo de dos meses contado a partir de la fecha de presentación de la solicitud o, en su caso, de la fecha en que se subsane el último requerimiento realizado por el Instituto."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 240.- Para inscribir una licencia en el Instituto bastará formular la solicitud correspondiente en los términos que fije el Reglamento de esta Ley.\nPodrá solicitarse mediante una sola promoción la inscripción de licencias de derechos relativos a dos o más solicitudes en trámite o a dos o más marcas registradas cuando la persona licenciante y la persona licenciataria sean iguales en todos ellos. La persona solicitante deberá identificar cada una de las solicitudes, o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes o registros involucrados.\nEl Instituto resolverá la solicitud en un plazo máximo de dos meses contado a partir de la fecha de presentación de la solicitud o, en su caso, de la fecha en que se subsane el último requerimiento realizado por el Instituto."
+  },
+  {
+   "numero": "241",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "La cancelación de la inscripción de una licencia procederá en los siguientes casos:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Cuando la soliciten conjuntamente la persona titular de la marca y la persona usuaria a quien se le haya concedido la licencia, en los términos de la legislación común;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Por nulidad, caducidad o cancelación del registro de marca, o cuando se trate de marcas en trámite y no se obtenga el registro de las mismas;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Por término de su vigencia, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "Por orden judicial.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 241.- La cancelación de la inscripción de una licencia procederá en los siguientes casos:\nI.- \tCuando la soliciten conjuntamente la persona titular de la marca y la persona usuaria a quien se le haya concedido la licencia, en los términos de la legislación común;\nII.- \tPor nulidad, caducidad o cancelación del registro de marca, o cuando se trate de marcas en trámite y no se obtenga el registro de las mismas;\nIII.- \tPor término de su vigencia, y\nIV.- \tPor orden judicial."
+  },
+  {
+   "numero": "242",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Los productos que se vendan o los servicios que se presten por la persona usuaria deberán ser de la misma calidad que los fabricados o prestados por la persona titular de la marca. Además, esos productos o el establecimiento en donde se presten o contraten los servicios, deberán indicar el nombre de la persona usuaria y demás datos que prevenga el Reglamento de esta Ley.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 242.- Los productos que se vendan o los servicios que se presten por la persona usuaria deberán ser de la misma calidad que los fabricados o prestados por la persona titular de la marca. Además, esos productos o el establecimiento en donde se presten o contraten los servicios, deberán indicar el nombre de la persona usuaria y demás datos que prevenga el Reglamento de esta Ley."
+  },
+  {
+   "numero": "243",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "La persona que tenga concedida una licencia salvo estipulación en contrario, podrá ejercitar las acciones legales de protección de los derechos sobre la marca, como si fuera la persona titular.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 243.- La persona que tenga concedida una licencia salvo estipulación en contrario, podrá ejercitar las acciones legales de protección de los derechos sobre la marca, como si fuera la persona titular."
+  },
+  {
+   "numero": "244",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "El uso de la marca por la persona usuaria que tenga concedida licencia, se considerará como realizado por la persona titular de la marca.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 244.- El uso de la marca por la persona usuaria que tenga concedida licencia, se considerará como realizado por la persona titular de la marca."
+  },
+  {
+   "numero": "245",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Existirá franquicia, cuando con la licencia de uso de una marca, otorgada por escrito, se transmitan conocimientos técnicos o se proporcione asistencia técnica, para que la persona a quien se le concede pueda producir o vender bienes o prestar servicios de manera uniforme y con los métodos operativos, comerciales y administrativos establecidos por la persona titular de la marca, tendientes a mantener la calidad, prestigio e imagen de los productos o servicios a los que ésta distingue.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Quien conceda una franquicia deberá proporcionar a quien se la pretenda conceder, por lo menos con treinta días previos a la celebración del contrato respectivo, la información relativa sobre el estado que guarda su empresa, en los términos que establezca el Reglamento de esta Ley.",
+    "La falta de veracidad en la información a que se refiere el párrafo anterior dará derecho al franquiciatario, además de exigir la nulidad del contrato, a demandar el pago de los daños y perjuicios que se le hayan ocasionado por el incumplimiento. Este derecho podrá ejercerlo la persona franquiciataria durante un año a partir de la celebración del contrato. Después de transcurrido este plazo solo tendrá derecho a demandar la nulidad del contrato.",
+    "Para la inscripción de la franquicia serán aplicables las disposiciones de este Capítulo, así como los plazos establecidos en el artículo 240 de la presente Ley."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 245.- Existirá franquicia, cuando con la licencia de uso de una marca, otorgada por escrito, se transmitan conocimientos técnicos o se proporcione asistencia técnica, para que la persona a quien se le concede pueda producir o vender bienes o prestar servicios de manera uniforme y con los métodos operativos, comerciales y administrativos establecidos por la persona titular de la marca, tendientes a mantener la calidad, prestigio e imagen de los productos o servicios a los que ésta distingue.\nQuien conceda una franquicia deberá proporcionar a quien se la pretenda conceder, por lo menos con treinta días previos a la celebración del contrato respectivo, la información relativa sobre el estado que guarda su empresa, en los términos que establezca el Reglamento de esta Ley.\nLa falta de veracidad en la información a que se refiere el párrafo anterior dará derecho al franquiciatario, además de exigir la nulidad del contrato, a demandar el pago de los daños y perjuicios que se le hayan ocasionado por el incumplimiento. Este derecho podrá ejercerlo la persona franquiciataria durante un año a partir de la celebración del contrato. Después de transcurrido este plazo solo tendrá derecho a demandar la nulidad del contrato.\nPara la inscripción de la franquicia serán aplicables las disposiciones de este Capítulo, así como los plazos establecidos en el artículo 240 de la presente Ley."
+  },
+  {
+   "numero": "246",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "El contrato de franquicia deberá constar por escrito y deberá contener, cuando menos, los siguientes requisitos:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "La zona geográfica en la que la persona franquiciataria ejercerá las actividades objeto del contrato;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "La ubicación, dimensión mínima y características de las inversiones en infraestructura, respecto del establecimiento en el cual la persona franquiciataria ejercerá las actividades derivadas de la materia del contrato;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Las políticas de inventarios, mercadotecnia y publicidad, así como las disposiciones relativas al suministro de mercancías y contratación con personas proveedoras, en el caso de que sean aplicables;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "Las políticas, procedimientos y plazos relativos a los reembolsos, financiamientos y demás contraprestaciones a cargo de las partes en los términos convenidos en el contrato;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "V",
+     "texto": "Los criterios y métodos aplicables a la determinación de los márgenes de utilidad o comisiones de las personas franquiciatarias;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VI",
+     "texto": "Las características de la capacitación técnica y operativa de la persona franquiciataria, así como el método o la forma en que la persona franquiciante otorgará asistencia técnica;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VII",
+     "texto": "Los criterios, métodos y procedimientos de supervisión, información, evaluación y calificación del desempeño, así como la calidad de los servicios a cargo la persona franquiciante y de la persona franquiciataria;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VIII",
+     "texto": "Los términos y condiciones para subfranquiciar, en caso de que las partes así lo convengan;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IX",
+     "texto": "Las causales para la terminación del contrato de franquicia, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "X",
+     "texto": "Los supuestos bajo los cuales podrán revisarse y, en su caso, modificarse de común acuerdo los términos o condiciones relativos al contrato de franquicia. No existirá obligación de la persona franquiciataria de enajenar sus activos a la persona franquiciante o a quien ésta designe al término del contrato, salvo pacto en contrario. Tampoco existirá obligación de la persona franquiciataria de enajenar o transmitir a la persona franquiciante en ningún momento, las acciones de su sociedad o hacerlo socio de ésta, salvo pacto en contrario. Este artículo se sujetará, en lo conducente, a lo dispuesto en el Reglamento de la presente Ley.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 246.- El contrato de franquicia deberá constar por escrito y deberá contener, cuando menos, los siguientes requisitos:\nI.- \tLa zona geográfica en la que la persona franquiciataria ejercerá las actividades objeto del contrato;\nII.- \tLa ubicación, dimensión mínima y características de las inversiones en infraestructura, respecto del establecimiento en el cual la persona franquiciataria ejercerá las actividades derivadas de la materia del contrato;\nIII.- \tLas políticas de inventarios, mercadotecnia y publicidad, así como las disposiciones relativas al suministro de mercancías y contratación con personas proveedoras, en el caso de que sean aplicables;\nIV.- \tLas políticas, procedimientos y plazos relativos a los reembolsos, financiamientos y demás contraprestaciones a cargo de las partes en los términos convenidos en el contrato;\nV.- \tLos criterios y métodos aplicables a la determinación de los márgenes de utilidad o comisiones de las personas franquiciatarias;\nVI.- \tLas características de la capacitación técnica y operativa de la persona franquiciataria, así como el método o la forma en que la persona franquiciante otorgará asistencia técnica;\nVII.- \tLos criterios, métodos y procedimientos de supervisión, información, evaluación y calificación del desempeño, así como la calidad de los servicios a cargo la persona franquiciante y de la persona franquiciataria;\nVIII.- \tLos términos y condiciones para subfranquiciar, en caso de que las partes así lo convengan;\nIX.- \tLas causales para la terminación del contrato de franquicia, y\nX.- \tLos supuestos bajo los cuales podrán revisarse y, en su caso, modificarse de común acuerdo los términos o condiciones relativos al contrato de franquicia.\nNo existirá obligación de la persona franquiciataria de enajenar sus activos a la persona franquiciante o a quien ésta designe al término del contrato, salvo pacto en contrario.\nTampoco existirá obligación de la persona franquiciataria de enajenar o transmitir a la persona franquiciante en ningún momento, las acciones de su sociedad o hacerlo socio de ésta, salvo pacto en contrario.\nEste artículo se sujetará, en lo conducente, a lo dispuesto en el Reglamento de la presente Ley."
+  },
+  {
+   "numero": "247",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "La persona franquiciante podrá tener injerencia en la organización y funcionamiento de la persona franquiciataria, únicamente para garantizar la observancia de los estándares de administración y de imagen de la franquicia conforme a lo establecido en el contrato.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "No se considerará que la persona franquiciante tenga injerencia en casos de fusión, escisión, transformación, modificación de estatutos, transmisión o gravamen de partes sociales o acciones de la persona franquiciataria, cuando con ello se modifiquen las características personales de esta, siempre que hayan sido previstas en el contrato respectivo como determinante de la voluntad de la persona franquiciante para la celebración del contrato con dicha persona franquiciataria."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 247.- La persona franquiciante podrá tener injerencia en la organización y funcionamiento de la persona franquiciataria, únicamente para garantizar la observancia de los estándares de administración y de imagen de la franquicia conforme a lo establecido en el contrato.\nNo se considerará que la persona franquiciante tenga injerencia en casos de fusión, escisión, transformación, modificación de estatutos, transmisión o gravamen de partes sociales o acciones de la persona franquiciataria, cuando con ello se modifiquen las características personales de esta, siempre que hayan sido previstas en el contrato respectivo como determinante de la voluntad de la persona franquiciante para la celebración del contrato con dicha persona franquiciataria."
+  },
+  {
+   "numero": "248",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "La persona franquiciataria deberá guardar durante la vigencia del contrato y, una vez terminado éste, la confidencialidad sobre la información que tenga dicho carácter o de la que haya tenido conocimiento y que sean propiedad de la persona franquiciante, así como de las operaciones y actividades celebradas al amparo del contrato.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 248.- La persona franquiciataria deberá guardar durante la vigencia del contrato y, una vez terminado éste, la confidencialidad sobre la información que tenga dicho carácter o de la que haya tenido conocimiento y que sean propiedad de la persona franquiciante, así como de las operaciones y actividades celebradas al amparo del contrato."
+  },
+  {
+   "numero": "249",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "La persona franquiciante y la persona franquiciataria no podrán dar por terminado o rescindido unilateralmente el contrato, salvo que éste se haya pactado por tiempo indefinido, o bien, exista una causa justa para ello. Para que la persona franquiciataria o la persona franquiciante puedan dar por terminado anticipadamente el contrato, ya sea que esto suceda por mutuo acuerdo o por rescisión, deberán ajustarse a las causas y procedimientos convenidos en el contrato.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "En caso de las violaciones a lo dispuesto en el párrafo precedente, la terminación anticipada que hagan la persona franquiciante o la persona franquiciataria dará lugar al pago de las penas convencionales que hubieran pactado en el contrato, o en su lugar a las indemnizaciones por los daños y perjuicios causados."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 249.- La persona franquiciante y la persona franquiciataria no podrán dar por terminado o rescindido unilateralmente el contrato, salvo que éste se haya pactado por tiempo indefinido, o bien, exista una causa justa para ello. Para que la persona franquiciataria o la persona franquiciante puedan dar por terminado anticipadamente el contrato, ya sea que esto suceda por mutuo acuerdo o por rescisión, deberán ajustarse a las causas y procedimientos convenidos en el contrato.\nEn caso de las violaciones a lo dispuesto en el párrafo precedente, la terminación anticipada que hagan la persona franquiciante o la persona franquiciataria dará lugar al pago de las penas convencionales que hubieran pactado en el contrato, o en su lugar a las indemnizaciones por los daños y perjuicios causados."
+  },
+  {
+   "numero": "250",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Los derechos que deriven de una solicitud de registro de marca o los que confiere una marca registrada, podrán gravarse o transmitirse en los términos y con las formalidades que establece la legislación común. Dicho gravamen o transmisión de derechos deberá inscribirse en el Instituto, de acuerdo con lo establecido en el Reglamento de esta Ley, para que pueda producir efectos en perjuicio de terceras personas.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Podrá solicitarse mediante una sola promoción, la inscripción de transferencias de la titularidad de dos o más solicitudes en trámite o de dos o más marcas registradas cuando quien transfiera y quien adquiera sean las mismas personas en todos ellos.",
+    "La persona solicitante deberá identificar cada una de las solicitudes o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes, o registros involucrados."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 250.- Los derechos que deriven de una solicitud de registro de marca o los que confiere una marca registrada, podrán gravarse o transmitirse en los términos y con las formalidades que establece la legislación común. Dicho gravamen o transmisión de derechos deberá inscribirse en el Instituto, de acuerdo con lo establecido en el Reglamento de esta Ley, para que pueda producir efectos en perjuicio de terceras personas.\nPodrá solicitarse mediante una sola promoción, la inscripción de transferencias de la titularidad de dos o más solicitudes en trámite o de dos o más marcas registradas cuando quien transfiera y quien adquiera sean las mismas personas en todos ellos.\nLa persona solicitante deberá identificar cada una de las solicitudes o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes, o registros involucrados."
+  },
+  {
+   "numero": "251",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Cuando exista un gravamen inscrito ante el Instituto, la persona beneficiaria podrá presentar la renovación del registro de una marca, aviso o nombre comercial, de conformidad con lo establecido en el artículo 237 de esta Ley.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 251.- Cuando exista un gravamen inscrito ante el Instituto, la persona beneficiaria podrá presentar la renovación del registro de una marca, aviso o nombre comercial, de conformidad con lo establecido en el artículo 237 de esta Ley."
+  },
+  {
+   "numero": "252",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Cuando se dé la fusión de personas morales se entenderá que existe una transmisión de los derechos sobre marcas registradas, salvo estipulación en contrario.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 252.- Cuando se dé la fusión de personas morales se entenderá que existe una transmisión de los derechos sobre marcas registradas, salvo estipulación en contrario."
+  },
+  {
+   "numero": "253",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Para efectos de su transmisión, se considerarán ligados los registros o solicitudes en trámite de las marcas de una misma persona titular, cuando éstas sean idénticas y amparen similares productos o servicios, o bien sean semejantes en grado de confusión y se apliquen a los mismos o similares productos o servicios.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 253.- Para efectos de su transmisión, se considerarán ligados los registros o solicitudes en trámite de las marcas de una misma persona titular, cuando éstas sean idénticas y amparen similares productos o servicios, o bien sean semejantes en grado de confusión y se apliquen a los mismos o similares productos o servicios."
+  },
+  {
+   "numero": "254",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Cuando la persona titular de registros o solicitudes en trámite de dos o más marcas ligadas considere que no existe confusión, podrá presentar el consentimiento expreso por escrito y solicitar que sea disuelta la liga impuesta.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "No será aplicable lo anterior, a marcas idénticas aplicadas a productos o servicios idénticos.",
+    "El Instituto resolverá en definitiva lo que proceda, considerando que no se induzca al error al público consumidor respecto a la procedencia de los productos o servicios."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 254.- Cuando la persona titular de registros o solicitudes en trámite de dos o más marcas ligadas considere que no existe confusión, podrá presentar el consentimiento expreso por escrito y solicitar que sea disuelta la liga impuesta.\nNo será aplicable lo anterior, a marcas idénticas aplicadas a productos o servicios idénticos.\nEl Instituto resolverá en definitiva lo que proceda, considerando que no se induzca al error al público consumidor respecto a la procedencia de los productos o servicios."
+  },
+  {
+   "numero": "255",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Solo se registrará la transmisión de algunas de las marcas ligadas, cuando se transfieran todas y se solicite la inscripción de ellas a la misma persona.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 255.- Solo se registrará la transmisión de algunas de las marcas ligadas, cuando se transfieran todas y se solicite la inscripción de ellas a la misma persona."
+  },
+  {
+   "numero": "256",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Cuando se solicite la inscripción de alguna transmisión de marca registrada o en trámite sobre la que haya habido transmisiones anteriores no inscritas, también deberán acreditarse e inscribirse éstas ante el Instituto.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 256.- Cuando se solicite la inscripción de alguna transmisión de marca registrada o en trámite sobre la que haya habido transmisiones anteriores no inscritas, también deberán acreditarse e inscribirse éstas ante el Instituto."
+  },
+  {
+   "numero": "257",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Cuando el registro de la marca no se encuentre vigente, el Instituto negará la inscripción o anotación que se solicite de una licencia o transmisión de derechos.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 257.- Cuando el registro de la marca no se encuentre vigente, el Instituto negará la inscripción o anotación que se solicite de una licencia o transmisión de derechos."
+  },
+  {
+   "numero": "257 Bis",
+   "capitulo_codigo": "VII",
+   "capitulo_titulo": "De las Licencias y Transmisión de Derechos",
+   "texto_intro": "Cuando exista un cambio de nombre o denominación o razón social o transformación de régimen jurídico de la persona titular de una solicitud o registro de marca, se deberá inscribir ante el Instituto, para que pueda producir efectos en perjuicio de terceras personas.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "Artículo 257 Ter.- Para inscribir un cambio de nombre o denominación o razón social o una transformación en el régimen jurídico bastará formular la petición correspondiente en los términos que fije esta Ley y su Reglamento.",
+    "Podrá solicitarse mediante una sola promoción, la inscripción de cambio de nombre o denominación o razón social o de transformación de régimen jurídico de dos o más solicitudes en trámite o de dos o más marcas registradas cuando se trate de la misma persona titular."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 257 Bis.- Cuando exista un cambio de nombre o denominación o razón social o transformación de régimen jurídico de la persona titular de una solicitud o registro de marca, se deberá inscribir ante el Instituto, para que pueda producir efectos en perjuicio de terceras personas.\nArtículo 257 Ter.- Para inscribir un cambio de nombre o denominación o razón social o una transformación en el régimen jurídico bastará formular la petición correspondiente en los términos que fije esta Ley y su Reglamento.\nPodrá solicitarse mediante una sola promoción, la inscripción de cambio de nombre o denominación o razón social o de transformación de régimen jurídico de dos o más solicitudes en trámite o de dos o más marcas registradas cuando se trate de la misma persona titular."
+  },
+  {
+   "numero": "258",
+   "capitulo_codigo": "VIII",
+   "capitulo_titulo": "De la Nulidad, Caducidad y Cancelación de Registros",
+   "texto_intro": "Se declarará la nulidad del registro de una marca cuando:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Se haya otorgado en contravención de las disposiciones de esta Ley o la que hubiese estado vigente en la época de su registro. No obstante lo dispuesto en esta fracción, la acción de nulidad no podrá fundarse en la impugnación de la representación legal de la persona solicitante del registro de la marca, ni en trámites relativos a su otorgamiento o vigencia;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "La marca sea idéntica o semejante en grado de confusión, a otra que haya sido usada en el país o en el extranjero con anterioridad a la fecha de presentación de la solicitud de la marca registrada y se aplique a los mismos o similares productos o servicios, siempre que, quien haga valer el mejor derecho por uso anterior, compruebe haber usado una marca ininterrumpidamente en el país o en el extranjero, antes de la fecha de presentación o, en su caso, de la fecha de primer uso declarado por el que la registró. Podrá declarase la nulidad parcial del registro, únicamente respecto de los productos o servicios que éste protege;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "La persona titular del registro no demuestre la veracidad de la fecha de primer uso declarada en la solicitud;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "IV",
+     "texto": "Se haya otorgado por error, inadvertencia, o diferencia de apreciación, existiendo una solicitud en trámite presentada con anterioridad o un registro vigente que se considere invadido, por tratarse de una marca que sea igual o semejante en grado de confusión y que se aplique a servicios o productos iguales o similares. Podrá declarase la nulidad parcial del registro, únicamente respecto de los productos o servicios que éste protege;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "V",
+     "texto": "La persona agente, representante legal, usuaria o distribuidora de la persona titular o cualquier otra persona que haya tenido relación, directa o indirecta, con la persona titular de una marca registrada en el extranjero, solicite y obtenga el registro de ésta u otra semejante en grado de confusión, a su nombre sin el consentimiento expreso de la persona titular de la marca extranjera, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "VI",
+     "texto": "Se haya obtenido de mala fe. En la resolución que declare la nulidad parcial, el Instituto ordenará se asiente en el título respectivo una anotación marginal, en la cual se harán constar las modificaciones a éste, así como las causas que la originaron.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [
+    "Las acciones de nulidad previstas en las fracciones II, III y IV del presente artículo podrán ejercitarse dentro de un plazo de cinco años, contado a partir de la fecha en que surta sus efectos la publicación del registro en la Gaceta. Las relativas a las fracciones I, V y VI podrán ejercitarse en cualquier tiempo."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 258.- Se declarará la nulidad del registro de una marca cuando:\nI.- \tSe haya otorgado en contravención de las disposiciones de esta Ley o la que hubiese estado vigente en la época de su registro.\nNo obstante lo dispuesto en esta fracción, la acción de nulidad no podrá fundarse en la impugnación de la representación legal de la persona solicitante del registro de la marca, ni en trámites relativos a su otorgamiento o vigencia;\nII.- \tLa marca sea idéntica o semejante en grado de confusión, a otra que haya sido usada en el país o en el extranjero con anterioridad a la fecha de presentación de la solicitud de la marca registrada y se aplique a los mismos o similares productos o servicios, siempre que, quien haga valer el mejor derecho por uso anterior, compruebe haber usado una marca ininterrumpidamente en el país o en el extranjero, antes de la fecha de presentación o, en su caso, de la fecha de primer uso declarado por el que la registró.\nPodrá declarase la nulidad parcial del registro, únicamente respecto de los productos o servicios que éste protege;\nIII.- \tLa persona titular del registro no demuestre la veracidad de la fecha de primer uso declarada en la solicitud;\nIV.- \tSe haya otorgado por error, inadvertencia, o diferencia de apreciación, existiendo una solicitud en trámite presentada con anterioridad o un registro vigente que se considere invadido, por tratarse de una marca que sea igual o semejante en grado de confusión y que se aplique a servicios o productos iguales o similares.\nPodrá declarase la nulidad parcial del registro, únicamente respecto de los productos o servicios que éste protege;\nV.- \tLa persona agente, representante legal, usuaria o distribuidora de la persona titular o cualquier otra persona que haya tenido relación, directa o indirecta, con la persona titular de una marca registrada en el extranjero, solicite y obtenga el registro de ésta u otra semejante en grado de confusión, a su nombre sin el consentimiento expreso de la persona titular de la marca extranjera, y\nVI.- \tSe haya obtenido de mala fe.\nLas acciones de nulidad previstas en las fracciones II, III y IV del presente artículo podrán ejercitarse dentro de un plazo de cinco años, contado a partir de la fecha en que surta sus efectos la publicación del registro en la Gaceta. Las relativas a las fracciones I, V y VI podrán ejercitarse en cualquier tiempo.\nEn la resolución que declare la nulidad parcial, el Instituto ordenará se asiente en el título respectivo una anotación marginal, en la cual se harán constar las modificaciones a éste, así como las causas que la originaron."
+  },
+  {
+   "numero": "259",
+   "capitulo_codigo": "VIII",
+   "capitulo_titulo": "De la Nulidad, Caducidad y Cancelación de Registros",
+   "texto_intro": "No se admitirá la solicitud de declaración administrativa de nulidad, cuando se haya presentado la oposición prevista en el artículo 221 de esta Ley, siempre que los argumentos hechos valer en la nulidad, así como el material probatorio, sean los mismos que los presentados en la oposición y el Instituto ya se hubiere pronunciado sobre éstos.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 259.- No se admitirá la solicitud de declaración administrativa de nulidad, cuando se haya presentado la oposición prevista en el artículo 221 de esta Ley, siempre que los argumentos hechos valer en la nulidad, así como el material probatorio, sean los mismos que los presentados en la oposición y el Instituto ya se hubiere pronunciado sobre éstos."
+  },
+  {
+   "numero": "260",
+   "capitulo_codigo": "VIII",
+   "capitulo_titulo": "De la Nulidad, Caducidad y Cancelación de Registros",
+   "texto_intro": "El registro caducará en los siguientes casos:",
+   "fracciones": [
+    {
+     "numero": "I",
+     "texto": "Cuando no se renueve en los términos de esta Ley;",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "II",
+     "texto": "Cuando la marca haya dejado de usarse durante los tres años consecutivos inmediatos anteriores a la solicitud de declaración administrativa de caducidad, salvo que exista causa justificada a juicio del Instituto. El registro también podrá caducar parcialmente respecto de los productos o servicios en los que no se acredite el uso, salvo que exista causa justificada a juicio del Instituto, y",
+     "incisos": [],
+     "notas": []
+    },
+    {
+     "numero": "III",
+     "texto": "Cuando no se realice la declaratoria de uso real y efectivo, en los términos que dispone el artículo 233 de esta Ley.",
+     "incisos": [],
+     "notas": []
+    }
+   ],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 260.- El registro caducará en los siguientes casos:\nI.- Cuando no se renueve en los términos de esta Ley;\nII.- Cuando la marca haya dejado de usarse durante los tres años consecutivos inmediatos anteriores a la solicitud de declaración administrativa de caducidad, salvo que exista causa justificada a juicio del Instituto.\nEl registro también podrá caducar parcialmente respecto de los productos o servicios en los que no se acredite el uso, salvo que exista causa justificada a juicio del Instituto, y\nIII.- Cuando no se realice la declaratoria de uso real y efectivo, en los términos que dispone el artículo 233 de esta Ley."
+  },
+  {
+   "numero": "261",
+   "capitulo_codigo": "VIII",
+   "capitulo_titulo": "De la Nulidad, Caducidad y Cancelación de Registros",
+   "texto_intro": "Procederá la cancelación del registro de una marca, si la persona titular ha provocado o tolerado que se transforme en una denominación genérica que corresponda a uno o varios de los productos o servicios para los cuales se registró, de tal modo que, en los medios comerciales y en el uso generalizado por el público, la marca haya perdido su carácter distintivo, como medio de distinguir el producto o servicio a que se aplique.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 261.- Procederá la cancelación del registro de una marca, si la persona titular ha provocado o tolerado que se transforme en una denominación genérica que corresponda a uno o varios de los productos o servicios para los cuales se registró, de tal modo que, en los medios comerciales y en el uso generalizado por el público, la marca haya perdido su carácter distintivo, como medio de distinguir el producto o servicio a que se aplique."
+  },
+  {
+   "numero": "262",
+   "capitulo_codigo": "VIII",
+   "capitulo_titulo": "De la Nulidad, Caducidad y Cancelación de Registros",
+   "texto_intro": "La persona titular de una marca registrada podrá solicitar, en cualquier tiempo, la cancelación voluntaria de su registro. El Instituto podrá requerir la ratificación de la firma.",
+   "fracciones": [],
+   "parrafos_finales": [],
+   "reformas": [],
+   "texto_completo": "Artículo 262.- La persona titular de una marca registrada podrá solicitar, en cualquier tiempo, la cancelación voluntaria de su registro. El Instituto podrá requerir la ratificación de la firma."
+  },
+  {
+   "numero": "263",
+   "capitulo_codigo": "VIII",
+   "capitulo_titulo": "De la Nulidad, Caducidad y Cancelación de Registros",
+   "texto_intro": "La declaración de nulidad, caducidad o cancelación del registro de una marca, se hará administrativamente por el Instituto de oficio, a petición de parte o del Ministerio Público Federal, cuando tenga algún interés la Federación.",
+   "fracciones": [],
+   "parrafos_finales": [
+    "La declaración de nulidad destruirá retroactivamente los efectos del registro, a la fecha de su otorgamiento.",
+    "La declaración de caducidad destruirá los efectos del registro, una vez que la resolución respectiva sea exigible.",
+    "La caducidad a la que se refieren las fracciones I y III del artículo 260 de esta Ley, no requerirá de declaración administrativa por parte del Instituto."
+   ],
+   "reformas": [],
+   "texto_completo": "Artículo 263.- La declaración de nulidad, caducidad o cancelación del registro de una marca, se hará administrativamente por el Instituto de oficio, a petición de parte o del Ministerio Público Federal, cuando tenga algún interés la Federación.\nLa declaración de nulidad destruirá retroactivamente los efectos del registro, a la fecha de su otorgamiento.\nLa declaración de caducidad destruirá los efectos del registro, una vez que la resolución respectiva sea exigible.\nLa caducidad a la que se refieren las fracciones I y III del artículo 260 de esta Ley, no requerirá de declaración administrativa por parte del Instituto."
+  }
+ ]
+}

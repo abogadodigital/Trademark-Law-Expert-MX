@@ -1,0 +1,455 @@
+{
+  "metadata": {
+    "titulo": "Ley Federal de Protección a la Propiedad Industrial (LFPPI) — Título Séptimo: De las Infracciones, Sanciones Administrativas y Delitos (filtrado a marcas, avisos y nombres comerciales, denominaciones de origen e indicaciones geográficas)",
+    "ambito": "Texto normativo vigente (no es jurisprudencia ni criterio interpretativo)",
+    "fuente": "Diario Oficial de la Federación",
+    "publicacion_original": "Nueva Ley publicada en el Diario Oficial de la Federación el 1 de julio de 2020",
+    "ultima_reforma": "DOF 03-04-2026",
+    "nota_vigencia": "Corpus generado a partir de un documento de trabajo del usuario (texto vigente, última reforma DOF 03-04-2026). Ante cualquier duda sobre reformas posteriores, verificar el texto oficial vigente en el portal del DOF (https://www.diputados.gob.mx/LeyesBiblio/ o https://www.dof.gob.mx) antes de usarlo como fundamento en un escrito.",
+    "titulo_legal_numero": "TÍTULO SÉPTIMO",
+    "titulo_legal_nombre": "De las Infracciones, Sanciones Administrativas y Delitos",
+    "nota_alcance": "Este corpus es un subconjunto filtrado del Título Séptimo completo (arts. 386-406), acotado a lo relacionado con marcas, avisos comerciales, nombres comerciales, denominaciones de origen e indicaciones geográficas, más las disposiciones generales de sanciones y procedimiento aplicables a cualquier infracción o delito. Se excluyeron expresamente por no ser materia de marcas: art. 386, fracciones IV a XV (patentes, modelos de utilidad, diseños industriales, esquemas de trazado y secretos industriales) y fracción XXXIII (cláusula genérica de cierre); art. 402, fracciones III a VI (secretos industriales). Para el texto íntegro sin filtrar de esas fracciones, consultar el DOF.",
+    "capitulos": [
+      {
+        "codigo": "I",
+        "titulo": "De las Infracciones y Sanciones Administrativas",
+        "articulo_inicial": "386"
+      },
+      {
+        "codigo": "II",
+        "titulo": "De los Delitos",
+        "articulo_inicial": "402"
+      }
+    ],
+    "leyenda_materia": {
+      "marca": "Marcas, avisos comerciales, nombres comerciales o franquicias que usan una marca",
+      "denominacion_origen": "Denominaciones de origen e indicaciones geográficas",
+      "general": "Disposición general aplicable a cualquier infracción o delito de propiedad industrial, no exclusiva de marcas"
+    }
+  },
+  "articulos": [
+    {
+      "numero": "386",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "mixto",
+      "texto_intro": "Son infracciones administrativas (fracciones filtradas a las relacionadas con marcas, avisos comerciales, nombres comerciales, denominación de origen e indicación geográfica, y a las fracciones generales I-III):",
+      "fracciones": [
+        {
+          "numero": "I",
+          "materia": "general",
+          "texto": "Realizar actos contrarios a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal y que se relacionen con la materia que esta Ley regula;"
+        },
+        {
+          "numero": "II",
+          "materia": "general",
+          "texto": "Efectuar, en el ejercicio de actividades industriales o mercantiles, actos que causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer infundadamente: a) La existencia de una relación o asociación entre un establecimiento y el de una tercera persona; b) Que se fabriquen productos bajo especificaciones, licencias o autorización de una tercera persona; c) Que se prestan servicios o se venden productos bajo autorización, licencias o especificaciones de una tercera persona; d) Que el producto de que se trate proviene de un territorio, región o localidad distinta al verdadero lugar de origen, de modo que induzca al público a error en cuanto al origen geográfico del producto, o e) La existencia de una relación de patrocinio oficial entre un signo distintivo y un evento público o privado de concentración masiva."
+        },
+        {
+          "numero": "III",
+          "materia": "general",
+          "texto": "Intentar o lograr el propósito de desprestigiar los productos, los servicios, la actividad industrial o comercial o el establecimiento de otro. No estará comprendida en esta disposición, la comparación de productos o servicios que ampare la marca con el propósito de informar al público, siempre que dicha comparación no sea tendenciosa, falsa o exagerada en los términos de la Ley Federal de Protección al Consumidor;"
+        },
+        {
+          "numero": "XVI",
+          "materia": "marca",
+          "texto": "Poner a la venta o en circulación productos u ofrecer servicios, indicando que están protegidos por una marca registrada sin que lo estén. Si el registro de marca ha caducado o ha sido declarado nulo o cancelado, se incurrirá en infracción después de un año de la fecha de caducidad o en su caso, de la fecha en que sea exigible la declaración correspondiente;"
+        },
+        {
+          "numero": "XVII",
+          "materia": "marca",
+          "texto": "Usar una marca parecida en grado de confusión a otra registrada, para amparar los mismos o similares productos o servicios que los protegidos por la registrada;"
+        },
+        {
+          "numero": "XVIII",
+          "materia": "marca",
+          "texto": "Usar, sin consentimiento de su titular, una marca registrada o semejante en grado de confusión como elemento de un nombre comercial o de una denominación o razón social, o de un nombre de dominio o viceversa, siempre que dichos nombres, denominaciones o razones sociales estén relacionados con establecimientos que operen con los productos o servicios protegidos por la marca;"
+        },
+        {
+          "numero": "XIX",
+          "materia": "marca",
+          "texto": "Usar como marcas las denominaciones, signos, símbolos, siglas o emblemas a las que se refieren las fracciones VII, VIII, IX, XII, XIII, XIV, XV, XVI, XVII y XX del artículo 173 de esta Ley; así como aquéllas que sean contrarias al orden público o que contravengan cualquier disposición legal;"
+        },
+        {
+          "numero": "XX",
+          "materia": "marca",
+          "texto": "Usar una marca previamente registrada o semejante en grado de confusión como nombre comercial, denominación o razón social o nombre de dominio o como partes de éstos, de una persona física o moral cuya actividad sea la producción, importación o comercialización de bienes o servicios iguales o similares a los que se aplica la marca registrada, sin el consentimiento, manifestado por escrito, de la persona titular del registro de marca o de la persona que tenga facultades para ello;"
+        },
+        {
+          "numero": "XXI",
+          "materia": "marca",
+          "texto": "Usar una marca registrada, sin el consentimiento de su titular o sin la licencia respectiva, en productos o servicios iguales o similares a los que la marca se aplique;"
+        },
+        {
+          "numero": "XXII",
+          "materia": "marca",
+          "texto": "Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada y que dichos productos o su etiquetado hayan sido alterados;"
+        },
+        {
+          "numero": "XXIII",
+          "materia": "marca",
+          "texto": "Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada, después de haber alterado, sustituido o suprimido parcial o totalmente ésta;"
+        },
+        {
+          "numero": "XXIV",
+          "materia": "marca",
+          "texto": "Usar la combinación de signos distintivos, elementos operativos o de imagen, que permitan identificar productos o servicios iguales o similares en grado de confusión a otros protegidos por esta Ley y que por su uso causen o induzcan al público a creer o suponer una asociación inexistente con quien acredite el derecho;"
+        },
+        {
+          "numero": "XXV",
+          "materia": "marca",
+          "texto": "Omitir proporcionar a la persona franquiciataria la información, a que se refiere el artículo 245 de esta Ley, siempre y cuando haya transcurrido el plazo para ello y haya sido requerida;"
+        },
+        {
+          "numero": "XXVI",
+          "materia": "marca",
+          "texto": "Usar un aviso comercial registrado o uno semejante en grado de confusión, sin el consentimiento de su titular o sin la licencia respectiva para anunciar bienes, servicios o establecimientos iguales o similares a los que se aplique el aviso;"
+        },
+        {
+          "numero": "XXVII",
+          "materia": "marca",
+          "texto": "Usar un nombre comercial o uno semejante en grado de confusión, sin el consentimiento de su titular o sin la licencia respectiva, para amparar un establecimiento industrial, comercial o de servicios del mismo o similar giro, dentro de la zona geográfica de la clientela efectiva o en cualquier parte de la República, conforme a lo establecido en el artículo 206 de esta Ley;"
+        },
+        {
+          "numero": "XXVIII",
+          "materia": "marca",
+          "texto": "Usar un nombre comercial idéntico o uno semejante en grado de confusión a otro previamente utilizado por una tercera persona, para amparar un establecimiento industrial, comercial o de servicios del mismo o similar giro, dentro de la zona geográfica de la clientela efectiva o en cualquier parte de la República, conforme a lo establecido en el artículo 206 de esta Ley;"
+        },
+        {
+          "numero": "XXIX",
+          "materia": "denominacion_origen",
+          "texto": "Usar sin la autorización de uso correspondiente una denominación de origen o indicación geográfica protegida;"
+        },
+        {
+          "numero": "XXX",
+          "materia": "denominacion_origen",
+          "texto": "Usar una denominación o indicación idéntica o semejante en grado de confusión a una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;"
+        },
+        {
+          "numero": "XXXI",
+          "materia": "denominacion_origen",
+          "texto": "Usar la traducción o transliteración de una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;"
+        },
+        {
+          "numero": "XXXII",
+          "materia": "denominacion_origen",
+          "texto": "Producir, almacenar, transportar, distribuir o vender productos idénticos o semejantes a los que se encuentren protegidos por una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, utilizando cualquier tipo de indicación o elemento que cree confusión en la persona consumidora sobre su origen o calidad, tales como \"género\", \"tipo\", \"manera\", \"imitación\", \"producido en\", \"con fabricación en\" u otras similares, y"
+        }
+      ],
+      "parrafos_finales": [
+        "Las conductas previstas en las fracciones anteriores también serán sancionadas si se realizan mediante el uso de Inteligencia Artificial.",
+        "La investigación de las infracciones administrativas se realizará por el Instituto de oficio o a petición de parte interesada."
+      ],
+      "texto_completo": "Artículo 386.- Son infracciones administrativas (texto filtrado a las fracciones I-III, XVI-XXXII; se omiten las fracciones IV-XV, de patentes/modelos de utilidad/diseños industriales/esquemas de trazado/secretos industriales, y la fracción XXXIII, cláusula genérica de cierre — ver nota_alcance en metadata):\n\nI.- Realizar actos contrarios a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal y que se relacionen con la materia que esta Ley regula;\nII.- Efectuar, en el ejercicio de actividades industriales o mercantiles, actos que causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer infundadamente: a) La existencia de una relación o asociación entre un establecimiento y el de una tercera persona; b) Que se fabriquen productos bajo especificaciones, licencias o autorización de una tercera persona; c) Que se prestan servicios o se venden productos bajo autorización, licencias o especificaciones de una tercera persona; d) Que el producto de que se trate proviene de un territorio, región o localidad distinta al verdadero lugar de origen, de modo que induzca al público a error en cuanto al origen geográfico del producto, o e) La existencia de una relación de patrocinio oficial entre un signo distintivo y un evento público o privado de concentración masiva.\nIII.- Intentar o lograr el propósito de desprestigiar los productos, los servicios, la actividad industrial o comercial o el establecimiento de otro. No estará comprendida en esta disposición, la comparación de productos o servicios que ampare la marca con el propósito de informar al público, siempre que dicha comparación no sea tendenciosa, falsa o exagerada en los términos de la Ley Federal de Protección al Consumidor;\nXVI.- Poner a la venta o en circulación productos u ofrecer servicios, indicando que están protegidos por una marca registrada sin que lo estén. Si el registro de marca ha caducado o ha sido declarado nulo o cancelado, se incurrirá en infracción después de un año de la fecha de caducidad o en su caso, de la fecha en que sea exigible la declaración correspondiente;\nXVII.- Usar una marca parecida en grado de confusión a otra registrada, para amparar los mismos o similares productos o servicios que los protegidos por la registrada;\nXVIII.- Usar, sin consentimiento de su titular, una marca registrada o semejante en grado de confusión como elemento de un nombre comercial o de una denominación o razón social, o de un nombre de dominio o viceversa, siempre que dichos nombres, denominaciones o razones sociales estén relacionados con establecimientos que operen con los productos o servicios protegidos por la marca;\nXIX.- Usar como marcas las denominaciones, signos, símbolos, siglas o emblemas a las que se refieren las fracciones VII, VIII, IX, XII, XIII, XIV, XV, XVI, XVII y XX del artículo 173 de esta Ley; así como aquéllas que sean contrarias al orden público o que contravengan cualquier disposición legal;\nXX.- Usar una marca previamente registrada o semejante en grado de confusión como nombre comercial, denominación o razón social o nombre de dominio o como partes de éstos, de una persona física o moral cuya actividad sea la producción, importación o comercialización de bienes o servicios iguales o similares a los que se aplica la marca registrada, sin el consentimiento, manifestado por escrito, de la persona titular del registro de marca o de la persona que tenga facultades para ello;\nXXI.- Usar una marca registrada, sin el consentimiento de su titular o sin la licencia respectiva, en productos o servicios iguales o similares a los que la marca se aplique;\nXXII.- Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada y que dichos productos o su etiquetado hayan sido alterados;\nXXIII.- Ofrecer en venta o poner en circulación productos a los que se aplica una marca registrada, después de haber alterado, sustituido o suprimido parcial o totalmente ésta;\nXXIV.- Usar la combinación de signos distintivos, elementos operativos o de imagen, que permitan identificar productos o servicios iguales o similares en grado de confusión a otros protegidos por esta Ley y que por su uso causen o induzcan al público a creer o suponer una asociación inexistente con quien acredite el derecho;\nXXV.- Omitir proporcionar a la persona franquiciataria la información, a que se refiere el artículo 245 de esta Ley, siempre y cuando haya transcurrido el plazo para ello y haya sido requerida;\nXXVI.- Usar un aviso comercial registrado o uno semejante en grado de confusión, sin el consentimiento de su titular o sin la licencia respectiva para anunciar bienes, servicios o establecimientos iguales o similares a los que se aplique el aviso;\nXXVII.- Usar un nombre comercial o uno semejante en grado de confusión, sin el consentimiento de su titular o sin la licencia respectiva, para amparar un establecimiento industrial, comercial o de servicios del mismo o similar giro, dentro de la zona geográfica de la clientela efectiva o en cualquier parte de la República, conforme a lo establecido en el artículo 206 de esta Ley;\nXXVIII.- Usar un nombre comercial idéntico o uno semejante en grado de confusión a otro previamente utilizado por una tercera persona, para amparar un establecimiento industrial, comercial o de servicios del mismo o similar giro, dentro de la zona geográfica de la clientela efectiva o en cualquier parte de la República, conforme a lo establecido en el artículo 206 de esta Ley;\nXXIX.- Usar sin la autorización de uso correspondiente una denominación de origen o indicación geográfica protegida;\nXXX.- Usar una denominación o indicación idéntica o semejante en grado de confusión a una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;\nXXXI.- Usar la traducción o transliteración de una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;\nXXXII.- Producir, almacenar, transportar, distribuir o vender productos idénticos o semejantes a los que se encuentren protegidos por una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, utilizando cualquier tipo de indicación o elemento que cree confusión en la persona consumidora sobre su origen o calidad, tales como \"género\", \"tipo\", \"manera\", \"imitación\", \"producido en\", \"con fabricación en\" u otras similares, y\n\nLas conductas previstas en las fracciones anteriores también serán sancionadas si se realizan mediante el uso de Inteligencia Artificial.\nLa investigación de las infracciones administrativas se realizará por el Instituto de oficio o a petición de parte interesada."
+    },
+    {
+      "numero": "387",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "Para efectos del artículo anterior se entenderá por “usar”, de manera enunciativa más no limitativa: el fabricar, producir, imitar, almacenar, distribuir, importar, exportar, ofrecer en venta, vender, transportar o poner en circulación.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 387.- Para efectos del artículo anterior se entenderá por “usar”, de manera enunciativa más no limitativa: el fabricar, producir, imitar, almacenar, distribuir, importar, exportar, ofrecer en venta, vender, transportar o poner en circulación."
+    },
+    {
+      "numero": "388",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "Las infracciones administrativas a esta Ley o demás disposiciones derivadas de ella, serán sancionadas con:",
+      "fracciones": [
+        {
+          "numero": "I",
+          "materia": "general",
+          "texto": "Multa hasta por el importe de doscientas cincuenta mil unidades de medida y actualización, vigente al momento en que se cometa la infracción, por cada conducta que se actualice;"
+        },
+        {
+          "numero": "II",
+          "materia": "general",
+          "texto": "Multa adicional hasta por el importe de mil unidades de medida y actualización, por cada día en que persista la infracción;"
+        },
+        {
+          "numero": "III",
+          "materia": "general",
+          "texto": "Clausura temporal hasta por noventa días, y"
+        },
+        {
+          "numero": "IV",
+          "materia": "general",
+          "texto": "Clausura definitiva."
+        }
+      ],
+      "parrafos_finales": [
+        "Las sanciones se aplicarán en función de la gravedad de la conducta u omisión en que hubiera incurrido la persona infractora, sin existir alguna prelación específica en cuanto a su imposición."
+      ],
+      "texto_completo": "Artículo 388.- Las infracciones administrativas a esta Ley o demás disposiciones derivadas de ella, serán sancionadas con:\n\nI.- Multa hasta por el importe de doscientas cincuenta mil unidades de medida y actualización, vigente al momento en que se cometa la infracción, por cada conducta que se actualice;\nII.- Multa adicional hasta por el importe de mil unidades de medida y actualización, por cada día en que persista la infracción;\nIII.- Clausura temporal hasta por noventa días, y\nIV.- Clausura definitiva.\n\nLas sanciones se aplicarán en función de la gravedad de la conducta u omisión en que hubiera incurrido la persona infractora, sin existir alguna prelación específica en cuanto a su imposición."
+    },
+    {
+      "numero": "389",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "Los ingresos por concepto de las multas impuestas por el Instituto se destinarán a cubrir sus gastos de operación.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 389.- Los ingresos por concepto de las multas impuestas por el Instituto se destinarán a cubrir sus gastos de operación."
+    },
+    {
+      "numero": "390",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "En los casos de reincidencia se duplicarán las multas impuestas anteriormente, sin que su monto exceda del triple del máximo fijado en el artículo 388 de esta Ley, según el caso.",
+      "fracciones": [],
+      "parrafos_finales": [
+        "Se entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, una vez que sea exigible la resolución emitida por el Instituto."
+      ],
+      "texto_completo": "Artículo 390.- En los casos de reincidencia se duplicarán las multas impuestas anteriormente, sin que su monto exceda del triple del máximo fijado en el artículo 388 de esta Ley, según el caso.\n\nSe entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, una vez que sea exigible la resolución emitida por el Instituto."
+    },
+    {
+      "numero": "391",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "Las clausuras podrán imponerse en la resolución que resuelva la infracción, además de la multa o sin que ésta se haya impuesto. Será procedente la clausura definitiva cuando el establecimiento haya sido clausurado temporalmente por dos veces y se reincida en la infracción, independientemente de que hubiere variado su domicilio.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 391.- Las clausuras podrán imponerse en la resolución que resuelva la infracción, además de la multa o sin que ésta se haya impuesto. Será procedente la clausura definitiva cuando el establecimiento haya sido clausurado temporalmente por dos veces y se reincida en la infracción, independientemente de que hubiere variado su domicilio."
+    },
+    {
+      "numero": "392",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "Para la determinación de las sanciones deberá tomarse en cuenta:",
+      "fracciones": [
+        {
+          "numero": "I",
+          "materia": "general",
+          "texto": "El carácter intencional de la acción u omisión constitutiva de la infracción;"
+        },
+        {
+          "numero": "II",
+          "materia": "general",
+          "texto": "Las condiciones económicas de la persona infractora, y"
+        },
+        {
+          "numero": "III",
+          "materia": "general",
+          "texto": "La gravedad que la infracción implique en relación con el comercio de productos o la prestación de servicios, así como el perjuicio ocasionado a las personas directamente afectadas."
+        }
+      ],
+      "parrafos_finales": [
+        "Cuando la acción u omisión constitutiva de infracción se haya realizado a sabiendas, se impondrá multa por el importe del doble de la multa impuesta a la conducta infractora.",
+        "Se entenderá que la acción u omisión se realizó a sabiendas, cuando la persona infractora conocía la existencia de los derechos de la persona titular."
+      ],
+      "texto_completo": "Artículo 392.- Para la determinación de las sanciones deberá tomarse en cuenta:\n\nI.- El carácter intencional de la acción u omisión constitutiva de la infracción;\nII.- Las condiciones económicas de la persona infractora, y\nIII.- La gravedad que la infracción implique en relación con el comercio de productos o la prestación de servicios, así como el perjuicio ocasionado a las personas directamente afectadas.\n\nCuando la acción u omisión constitutiva de infracción se haya realizado a sabiendas, se impondrá multa por el importe del doble de la multa impuesta a la conducta infractora.\nSe entenderá que la acción u omisión se realizó a sabiendas, cuando la persona infractora conocía la existencia de los derechos de la persona titular."
+    },
+    {
+      "numero": "393",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "Las multas que imponga el Instituto serán consideradas créditos fiscales y se recaudarán o, en su caso, ejecutarán por éste, en su carácter de autoridad fiscal, bajo el Procedimiento Administrativo de Ejecución previsto en el Código Fiscal de la Federación y su Reglamento.",
+      "fracciones": [],
+      "parrafos_finales": [
+        "El Instituto implementará mecanismos para el pago de multas a través del uso de medios electrónicos o de cualquier otra tecnología."
+      ],
+      "texto_completo": "Artículo 393.- Las multas que imponga el Instituto serán consideradas créditos fiscales y se recaudarán o, en su caso, ejecutarán por éste, en su carácter de autoridad fiscal, bajo el Procedimiento Administrativo de Ejecución previsto en el Código Fiscal de la Federación y su Reglamento.\n\nEl Instituto implementará mecanismos para el pago de multas a través del uso de medios electrónicos o de cualquier otra tecnología."
+    },
+    {
+      "numero": "394",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "La persona que obstaculice o impida, por sí o por interpósita persona, el procedimiento administrativo de ejecución que ordene el Instituto será acreedora a las sanciones previstas en las fracciones I o III del artículo 388 de esta Ley.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 394.- La persona que obstaculice o impida, por sí o por interpósita persona, el procedimiento administrativo de ejecución que ordene el Instituto será acreedora a las sanciones previstas en las fracciones I o III del artículo 388 de esta Ley."
+    },
+    {
+      "numero": "395",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "Las sanciones establecidas en esta Ley y demás disposiciones derivadas de ella, se impondrán además de la indemnización que corresponda por daños y perjuicios, o la reparación del daño material a las personas afectadas.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 395.- Las sanciones establecidas en esta Ley y demás disposiciones derivadas de ella, se impondrán además de la indemnización que corresponda por daños y perjuicios, o la reparación del daño material a las personas afectadas."
+    },
+    {
+      "numero": "396",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "La indemnización por la violación de alguno o algunos de los derechos de propiedad industrial regulados en esta Ley, en ningún caso podrá ser inferior al cuarenta por ciento del indicador de valor legítimo presentado por la persona titular afectada, en términos del artículo 397 de esta Ley.",
+      "fracciones": [
+        {
+          "numero": "I",
+          "materia": "general",
+          "texto": "El Instituto una vez concluido el procedimiento administrativo respectivo, en los términos de esta Ley, o"
+        },
+        {
+          "numero": "II",
+          "materia": "general",
+          "texto": "Los Tribunales de forma directa, conforme a lo dispuesto en la legislación común, y sin necesidad de declaración administrativa previa, atendiendo a lo dispuesto en el artículo 409 de esta Ley."
+        }
+      ],
+      "parrafos_finales": [
+        "La indemnización podrá ser reclamada, a elección de la persona titular afectada ante:"
+      ],
+      "texto_completo": "Artículo 396.- La indemnización por la violación de alguno o algunos de los derechos de propiedad industrial regulados en esta Ley, en ningún caso podrá ser inferior al cuarenta por ciento del indicador de valor legítimo presentado por la persona titular afectada, en términos del artículo 397 de esta Ley.\n\nI.- El Instituto una vez concluido el procedimiento administrativo respectivo, en los términos de esta Ley, o\nII.- Los Tribunales de forma directa, conforme a lo dispuesto en la legislación común, y sin necesidad de declaración administrativa previa, atendiendo a lo dispuesto en el artículo 409 de esta Ley.\n\nLa indemnización podrá ser reclamada, a elección de la persona titular afectada ante:"
+    },
+    {
+      "numero": "397",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "Una vez que el Instituto haya declarado una infracción administrativa y ésta sea exigible, en términos de la Ley Federal de Procedimiento Administrativo, la persona titular afectada podrá presentar su reclamo por los daños y perjuicios ocasionados, así como la cuantificación correspondiente a éstos, de manera incidental, para lo cual deberá ofrecer las pruebas que estime pertinentes.",
+      "fracciones": [
+        {
+          "numero": "I",
+          "materia": "general",
+          "texto": "El valor de los productos o servicios infringidos calculados por el precio del mercado, o el precio sugerido para la venta al por menor;"
+        },
+        {
+          "numero": "II",
+          "materia": "general",
+          "texto": "Las utilidades que la persona titular hubiera dejado de percibir como consecuencia de la infracción;"
+        },
+        {
+          "numero": "III",
+          "materia": "general",
+          "texto": "Las utilidades que haya obtenido la persona infractora como consecuencia de la infracción, o"
+        },
+        {
+          "numero": "IV",
+          "materia": "general",
+          "texto": "El precio que la persona infractora hubiera debido pagar a la persona titular del derecho por el otorgamiento de una licencia, teniendo en cuenta el valor comercial del derecho infringido y las licencias contractuales que ya se hubieran concedido."
+        }
+      ],
+      "parrafos_finales": [
+        "Para determinar el monto de la indemnización se tomará en cuenta la fecha en que se haya acreditado la infracción al derecho y, a elección de la persona titular afectada, cualquier indicador de valor legítimo presentado por ésta, incluyendo:",
+        "Las obligaciones de hacer o no hacer establecidas en la resolución sobre el fondo de la controversia, que no puedan cumplirse por la persona infractora y que se traduzcan en daños y perjuicios a la persona titular afectada, también podrán ser cuantificadas para efectos de la indemnización correspondiente."
+      ],
+      "texto_completo": "Artículo 397.- Una vez que el Instituto haya declarado una infracción administrativa y ésta sea exigible, en términos de la Ley Federal de Procedimiento Administrativo, la persona titular afectada podrá presentar su reclamo por los daños y perjuicios ocasionados, así como la cuantificación correspondiente a éstos, de manera incidental, para lo cual deberá ofrecer las pruebas que estime pertinentes.\n\nI.- El valor de los productos o servicios infringidos calculados por el precio del mercado, o el precio sugerido para la venta al por menor;\nII.- Las utilidades que la persona titular hubiera dejado de percibir como consecuencia de la infracción;\nIII.- Las utilidades que haya obtenido la persona infractora como consecuencia de la infracción, o\nIV.- El precio que la persona infractora hubiera debido pagar a la persona titular del derecho por el otorgamiento de una licencia, teniendo en cuenta el valor comercial del derecho infringido y las licencias contractuales que ya se hubieran concedido.\n\nPara determinar el monto de la indemnización se tomará en cuenta la fecha en que se haya acreditado la infracción al derecho y, a elección de la persona titular afectada, cualquier indicador de valor legítimo presentado por ésta, incluyendo:\nLas obligaciones de hacer o no hacer establecidas en la resolución sobre el fondo de la controversia, que no puedan cumplirse por la persona infractora y que se traduzcan en daños y perjuicios a la persona titular afectada, también podrán ser cuantificadas para efectos de la indemnización correspondiente."
+    },
+    {
+      "numero": "398",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "De la reclamación de la persona titular afectada se dará vista a la persona infractora para que, dentro del plazo de quince días hábiles siguientes a la notificación respectiva, manifieste lo que a su derecho convenga y presente las pruebas que considere convenientes.",
+      "fracciones": [],
+      "parrafos_finales": [
+        "Una vez desahogadas las pruebas y tomando en cuenta las manifestaciones presentadas, el Instituto determinará los daños y perjuicios ocasionados, así como el monto de la indemnización que corresponda.",
+        "En la tramitación del incidente al que se refiere el presente artículo, se aplicarán las mismas reglas de los procedimientos de declaración administrativa respecto del ofrecimiento, admisión y desahogo de pruebas, previstas en el artículo 333 de esta Ley."
+      ],
+      "texto_completo": "Artículo 398.- De la reclamación de la persona titular afectada se dará vista a la persona infractora para que, dentro del plazo de quince días hábiles siguientes a la notificación respectiva, manifieste lo que a su derecho convenga y presente las pruebas que considere convenientes.\n\nUna vez desahogadas las pruebas y tomando en cuenta las manifestaciones presentadas, el Instituto determinará los daños y perjuicios ocasionados, así como el monto de la indemnización que corresponda.\nEn la tramitación del incidente al que se refiere el presente artículo, se aplicarán las mismas reglas de los procedimientos de declaración administrativa respecto del ofrecimiento, admisión y desahogo de pruebas, previstas en el artículo 333 de esta Ley."
+    },
+    {
+      "numero": "399",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "La acción para reclamar los daños y perjuicios causados por las infracciones a esta Ley, prescribirá en dos años contados a partir de la fecha en que el Instituto haya declarado una infracción administrativa y ésta sea exigible.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 399.- La acción para reclamar los daños y perjuicios causados por las infracciones a esta Ley, prescribirá en dos años contados a partir de la fecha en que el Instituto haya declarado una infracción administrativa y ésta sea exigible."
+    },
+    {
+      "numero": "400",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "La ejecución de la resolución del incidente emitida por el Instituto podrá promoverse de conformidad con las disposiciones contenidas en el Código Nacional de Procedimientos Civiles y Familiares, ante los Tribunales Federales competentes.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 400.- La ejecución de la resolución del incidente emitida por el Instituto podrá promoverse de conformidad con las disposiciones contenidas en el Código Nacional de Procedimientos Civiles y Familiares, ante los Tribunales Federales competentes."
+    },
+    {
+      "numero": "401",
+      "capitulo_codigo": "I",
+      "capitulo_titulo": "De las Infracciones y Sanciones Administrativas",
+      "materia": "general",
+      "texto_intro": "Si del análisis del expediente formado con motivo de la investigación por infracción administrativa el Instituto advierte la realización de hechos que pudieran constituir alguno de los delitos previstos en esta Ley, así lo hará constar en la resolución que emita.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 401.- Si del análisis del expediente formado con motivo de la investigación por infracción administrativa el Instituto advierte la realización de hechos que pudieran constituir alguno de los delitos previstos en esta Ley, así lo hará constar en la resolución que emita."
+    },
+    {
+      "numero": "402",
+      "capitulo_codigo": "II",
+      "capitulo_titulo": "De los Delitos",
+      "materia": "mixto",
+      "texto_intro": "Son delitos (fracciones filtradas a falsificación de marca y a denominación de origen/indicación geográfica):",
+      "fracciones": [
+        {
+          "numero": "I",
+          "materia": "marca",
+          "texto": "Falsificar una marca con fines de especulación comercial. Para efectos de esta Ley, se entenderá por falsificar, el usar una marca idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a una previamente registrada o a una protegida por esta Ley, sin autorización de su legítima persona titular o de su licenciataria, para representar falsamente a un producto o servicio como original o auténtico. Para acreditar la falsificación bastará que la marca sea usada en forma idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a como aparezca representada en el título de registro o, en su caso, en la resolución que estime o declare su notoriedad o fama;"
+        },
+        {
+          "numero": "II",
+          "materia": "marca",
+          "texto": "Producir, almacenar, transportar, introducir al país, distribuir o vender con fines de especulación comercial, objetos que ostenten falsificaciones de marcas, así como aportar o proveer de cualquier forma, a sabiendas, materias primas o insumos destinados a la producción de objetos que ostenten dichas falsificaciones;"
+        },
+        {
+          "numero": "VII",
+          "materia": "denominacion_origen",
+          "texto": "Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una denominación de origen protegida que no cuenten con la certificación correspondiente en términos de la Norma Oficial Mexicana aplicable, con el propósito de obtener un beneficio económico para sí o para una tercera persona. Queda incluido en el supuesto anterior, el realizar cualquier acto de despacho aduanero relacionado con el producto, ante las autoridades competentes, para la introducción al país o salida del mismo. No existirá responsabilidad penal cuando la Norma Oficial Mexicana correspondiente no se encuentre vigente o el respectivo organismo de evaluación de la conformidad no se encuentre acreditado, en términos de la legislación aplicable;"
+        },
+        {
+          "numero": "VIII",
+          "materia": "denominacion_origen",
+          "texto": "Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una indicación geográfica protegida que no cuenten con el certificado de cumplimiento a las reglas de uso respectivas, con el propósito de obtener un beneficio económico para sí o para una tercera persona. Queda incluido en el supuesto anterior, el realizar cualquier acto de despacho aduanero relacionado con el producto, ante las autoridades competentes, para la introducción al país o salida del mismo. No existirá responsabilidad penal cuando no se encuentre acreditada ante el Instituto la persona responsable de emitir el certificado de cumplimiento a las reglas de uso respectivas, en términos de la legislación aplicable."
+        }
+      ],
+      "parrafos_finales": [
+        "Los delitos previstos en las fracciones I a VI de este artículo se perseguirán por querella de parte ofendida. Los delitos contemplados en las fracciones VII y VIII se perseguirán de oficio o por denuncia."
+      ],
+      "texto_completo": "Artículo 402.- Son delitos (texto filtrado a las fracciones I, II, VII y VIII; se omiten las fracciones III-VI, de secretos industriales — ver nota_alcance en metadata):\n\nI.- Falsificar una marca con fines de especulación comercial. Para efectos de esta Ley, se entenderá por falsificar, el usar una marca idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a una previamente registrada o a una protegida por esta Ley, sin autorización de su legítima persona titular o de su licenciataria, para representar falsamente a un producto o servicio como original o auténtico. Para acreditar la falsificación bastará que la marca sea usada en forma idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a como aparezca representada en el título de registro o, en su caso, en la resolución que estime o declare su notoriedad o fama;\nII.- Producir, almacenar, transportar, introducir al país, distribuir o vender con fines de especulación comercial, objetos que ostenten falsificaciones de marcas, así como aportar o proveer de cualquier forma, a sabiendas, materias primas o insumos destinados a la producción de objetos que ostenten dichas falsificaciones;\nVII.- Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una denominación de origen protegida que no cuenten con la certificación correspondiente en términos de la Norma Oficial Mexicana aplicable, con el propósito de obtener un beneficio económico para sí o para una tercera persona. Queda incluido en el supuesto anterior, el realizar cualquier acto de despacho aduanero relacionado con el producto, ante las autoridades competentes, para la introducción al país o salida del mismo. No existirá responsabilidad penal cuando la Norma Oficial Mexicana correspondiente no se encuentre vigente o el respectivo organismo de evaluación de la conformidad no se encuentre acreditado, en términos de la legislación aplicable;\nVIII.- Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una indicación geográfica protegida que no cuenten con el certificado de cumplimiento a las reglas de uso respectivas, con el propósito de obtener un beneficio económico para sí o para una tercera persona. Queda incluido en el supuesto anterior, el realizar cualquier acto de despacho aduanero relacionado con el producto, ante las autoridades competentes, para la introducción al país o salida del mismo. No existirá responsabilidad penal cuando no se encuentre acreditada ante el Instituto la persona responsable de emitir el certificado de cumplimiento a las reglas de uso respectivas, en términos de la legislación aplicable.\n\nLos delitos previstos en las fracciones I a VI de este artículo se perseguirán por querella de parte ofendida. Los delitos contemplados en las fracciones VII y VIII se perseguirán de oficio o por denuncia."
+    },
+    {
+      "numero": "403",
+      "capitulo_codigo": "II",
+      "capitulo_titulo": "De los Delitos",
+      "materia": "mixto",
+      "texto_intro": "En el caso de los delitos previstos en las fracciones I, II, VII y VIII del artículo 402 de esta Ley, se impondrán de tres a diez años de prisión y multa de dos mil a quinientas mil unidades de medida y actualización, vigente al momento en que se cometa el ilícito.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 403.- En el caso de los delitos previstos en las fracciones I, II, VII y VIII del artículo 402 de esta Ley, se impondrán de tres a diez años de prisión y multa de dos mil a quinientas mil unidades de medida y actualización, vigente al momento en que se cometa el ilícito."
+    },
+    {
+      "numero": "404",
+      "capitulo_codigo": "II",
+      "capitulo_titulo": "De los Delitos",
+      "materia": "marca",
+      "texto_intro": "Se impondrá de dos a seis años de prisión y multa de mil a cien mil unidades de medida y actualización, vigente al momento en que se cometa el delito, a la persona que venda a cualquier persona consumidora final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 404.- Se impondrá de dos a seis años de prisión y multa de mil a cien mil unidades de medida y actualización, vigente al momento en que se cometa el delito, a la persona que venda a cualquier persona consumidora final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley."
+    },
+    {
+      "numero": "405",
+      "capitulo_codigo": "II",
+      "capitulo_titulo": "De los Delitos",
+      "materia": "marca",
+      "texto_intro": "Para que el Ministerio Público ejercite la acción penal, en los supuestos previstos en las fracciones I y II del artículo 402, se requerirá que el Instituto en un plazo que no exceda de 30 días hábiles emita un dictamen técnico en el que no se prejuzgará sobre las acciones civiles o penales que procedan.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 405.- Para que el Ministerio Público ejercite la acción penal, en los supuestos previstos en las fracciones I y II del artículo 402, se requerirá que el Instituto en un plazo que no exceda de 30 días hábiles emita un dictamen técnico en el que no se prejuzgará sobre las acciones civiles o penales que procedan."
+    },
+    {
+      "numero": "406",
+      "capitulo_codigo": "II",
+      "capitulo_titulo": "De los Delitos",
+      "materia": "general",
+      "texto_intro": "Independientemente del ejercicio de la acción penal, la persona perjudicada por cualquiera de los delitos a que esta Ley se refiere podrá demandar de la o las personas autoras de éstos, la reparación y el pago de los daños y perjuicios sufridos con motivo de dichos delitos, en los términos previstos en el artículo 396 de esta Ley.",
+      "fracciones": [],
+      "parrafos_finales": [],
+      "texto_completo": "Artículo 406.- Independientemente del ejercicio de la acción penal, la persona perjudicada por cualquiera de los delitos a que esta Ley se refiere podrá demandar de la o las personas autoras de éstos, la reparación y el pago de los daños y perjuicios sufridos con motivo de dichos delitos, en los términos previstos en el artículo 396 de esta Ley."
+    }
+  ]
+}

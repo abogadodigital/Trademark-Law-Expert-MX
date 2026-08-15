@@ -1,0 +1,20 @@
+{
+  "name": "trademark-law-expert-mx",
+  "version": "0.3.2",
+  "description": "Herramientas de propiedad industrial mexicana sobre marcas: consulta del texto vigente del Título Cuarto de la LFPPI (arts. 170-263) y del Título Séptimo sobre infracciones y delitos (arts. 386-406), análisis de riesgo de confusión de un caso concreto, búsqueda y cita de tesis/jurisprudencia, apoyo en la redacción de escritos ante IMPI/TFJA, y generación de material docente, a partir de un corpus curado de 50 criterios de Tribunales Colegiados de Circuito, la SCJN y el TFJA sobre similitud, notoriedad y competencia desleal entre marcas, más el texto íntegro de la ley.",
+  "author": {
+    "name": "Joel A. Gómez Treviño"
+  },
+  "homepage": "https://lnk.bio/AbogadoDigital",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": [
+    "propiedad industrial",
+    "marcas",
+    "derecho mexicano",
+    "riesgo de confusión",
+    "LFPPI",
+    "IMPI",
+    "SCJN",
+    "TFJA"
+  ]
+}
