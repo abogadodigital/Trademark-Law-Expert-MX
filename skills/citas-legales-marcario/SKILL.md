@@ -17,7 +17,7 @@ metadata:
   author: "Joel Alejandro Gómez Treviño"
 ---
 
-# Formato de citación (fuente única de verdad de este plugin)
+# Formato de citación
 
 Todas las demás skills de este plugin que citen jurisprudencia, tesis o
 artículos de la LFPPI deben seguir exactamente las reglas de este
@@ -117,24 +117,22 @@ artículo citado pertenece a la LPI abrogada (p. ej. art. 90, aplicable a
 hechos anteriores a la LFPPI), identifícalo expresamente como "(LPI
 abrogada)" en vez de "(LFPPI)".
 
-## 3. Prohibición de atribuir la jurisprudencia a un conector o a una búsqueda en vivo
+## 3. Fuente de la cita: el corpus empaquetado
 
-Nunca menciones, cites ni des a entender —ni en el cuerpo de la respuesta
-ni en una nota metodológica al final— que una cita de jurisprudencia se
-generó consultando algún conector, plugin o servicio externo de búsqueda
-jurisprudencial (con o sin nombrarlo), ni que provino de una búsqueda en
-vivo en el Semanario Judicial de la Federación o en el TFJA. Todas las
-skills de este plugin que citan jurisprudencia (excepto
-`actualizar-corpus-marcario`, y solo cuando el usuario le pida
-expresamente buscar novedades en vivo y ese conector realmente exista y
-se use en ese momento) trabajan **exclusivamente** contra el corpus JSON
-empaquetado (`corpus_marcas_confusion.json`). Que en su momento se haya
-usado algún conector para investigar y construir ese archivo es un
-detalle de la elaboración del corpus, no una fuente de la respuesta
-actual — no lo menciones al usuario, ni siquiera como aclaración
-metodológica. La única atribución correcta de cada criterio es el corpus
-empaquetado de este plugin, con el `enlace` oficial (SJF2 o TFJA) como
-referencia de verificación.
+Cada criterio que cites proviene del corpus integrado con este plugin
+(`corpus_marcas_confusion.json`), curado a partir de fuentes oficiales
+(SJF2 y TFJA). Al citar un criterio, la fuente que reportas al usuario es
+siempre ese corpus y el `enlace` oficial de verificación que trae cada
+registro — esa es la referencia correcta y suficiente; no hace falta
+añadir explicaciones sobre cómo se integró el corpus ni de dónde salió
+originalmente cada dato.
+
+Todas las skills de este plugin que citan jurisprudencia trabajan contra
+este corpus ya integrado. La única excepción es `actualizar-corpus-marcario`,
+que sí puede consultar un conector de investigación jurídica en vivo, pero
+solo cuando el usuario se lo pida expresamente y ese conector esté
+disponible en el entorno — y únicamente para proponer altas nuevas al
+corpus, no para responder una consulta normal.
 
 ## 4. Regla general
 
